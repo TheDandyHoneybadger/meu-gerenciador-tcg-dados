@@ -1,20 +1,17 @@
  [
           {
-            "username": "admin",
-            "password_hash": "admin",
-            "permissions": {
-              "ygo": true, "mtg": true, "pkm": true, "op": true, "fab": true, "dgm": true,
-              "can_import_db": true, 
-              "can_manage_users": true 
-            }
-          },
-          {
-            "username": "outro_usuario",
-            "password_hash": "hash_de_outra_senha_aqui",
-            "permissions": {
-              "ygo": true, "mtg": false, "pkm": true, "op": false, "fab": false, "dgm": false,
-              "can_import_db": false,
-              "can_manage_users": false
-            }
-          }
+  "username": "Admin",
+  "password_hash": "b80f3145c6be886bed538f59e6f595797667b34e081212ccaffdc3c37a9fe368",
+  "permissions": {
+    "ygo": true,
+    "mtg": true,
+    "pkm": true,
+    "op": true,
+    "fab": true,
+    "dgm": true,
+    "can_import_db": true,
+    "can_manage_users": true,
+    "can_update_online_db": true
+  }
+}
         ]
