@@ -1,7 +1,7 @@
  [
           {
             "username": "admin",
-            "password_hash": "hash_da_senha_admin_aqui_gerado_com_sha256",
+            "password_hash": "admin",
             "permissions": {
               "ygo": true, "mtg": true, "pkm": true, "op": true, "fab": true, "dgm": true,
               "can_import_db": true, 
