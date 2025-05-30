@@ -1,0 +1,20 @@
+ [
+          {
+            "username": "admin",
+            "password_hash": "hash_da_senha_admin_aqui_gerado_com_sha256",
+            "permissions": {
+              "ygo": true, "mtg": true, "pkm": true, "op": true, "fab": true, "dgm": true,
+              "can_import_db": true, 
+              "can_manage_users": true 
+            }
+          },
+          {
+            "username": "outro_usuario",
+            "password_hash": "hash_de_outra_senha_aqui",
+            "permissions": {
+              "ygo": true, "mtg": false, "pkm": true, "op": false, "fab": false, "dgm": false,
+              "can_import_db": false,
+              "can_manage_users": false
+            }
+          }
+        ]
