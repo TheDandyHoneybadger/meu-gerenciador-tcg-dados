@@ -15,8 +15,8 @@
   }
 }
 {
-  "username": "TesteYGO",
-  "password_hash": "8887a4f9a51678383a00c8442aa5520e51522dc57ed451837f30df05ea6b1a7d",
+  "username": "YGO",
+  "password_hash": "95c77bfc462aea319cca90fd6d3295aa808d14c88a4a5e58ecaf77bd092fb69a",
   "permissions": {
     "ygo": true,
     "mtg": false,
