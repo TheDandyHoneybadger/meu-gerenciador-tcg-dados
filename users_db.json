@@ -1,33 +1,32 @@
- [
-          {
-  "username": "Admin",
-  "password_hash": "b80f3145c6be886bed538f59e6f595797667b34e081212ccaffdc3c37a9fe368",
-  "permissions": {
-    "ygo": true,
-    "mtg": true,
-    "pkm": true,
-    "op": true,
-    "fab": true,
-    "dgm": true,
-    "can_import_db": true,
-    "can_manage_users": true,
-    "can_update_online_db": true
-  }
-}
-{
-  "username": "YGO",
-  "password_hash": "95c77bfc462aea319cca90fd6d3295aa808d14c88a4a5e58ecaf77bd092fb69a",
-  "permissions": {
-    "ygo": true,
-    "mtg": false,
-    "pkm": false,
-    "op": false,
-    "fab": false,
-    "dgm": false,
-    "can_import_db": false,
-    "can_manage_users": false,
-    "can_update_online_db": true
-  }
-}
-  
-        ]
+[
+    {
+        "username": "Admin",
+        "password_hash": "b80f3145c6be886bed538f59e6f595797667b34e081212ccaffdc3c37a9fe368",
+        "permissions": {
+            "ygo": true,
+            "mtg": true,
+            "pkm": true,
+            "op": true,
+            "fab": true,
+            "dgm": true,
+            "can_import_db": true,
+            "can_manage_users": true,
+            "can_update_online_db": true
+        }
+    },
+    {
+        "username": "YGO",
+        "password_hash": "95c77bfc462aea319cca90fd6d3295aa808d14c88a4a5e58ecaf77bd092fb69a",
+        "permissions": {
+            "ygo": true,
+            "mtg": false,
+            "pkm": false,
+            "op": false,
+            "fab": false,
+            "dgm": false,
+            "can_import_db": false,
+            "can_manage_users": false,
+            "can_update_online_db": true
+        }
+    }
+]
