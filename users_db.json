@@ -15,5 +15,22 @@
     "can_manage_users": true,
     "can_update_online_db": true
   }
+},
+{
+  "username_hash": "71318126b97d81bf7d88fd59ad5c2ca3db88efcbeff055322d6e45178d57f16c",
+  "display_name": "ygo",
+  "password_hash": "c7cf9bd99e3864bce915d11be107eb8aa5fda3ed65b9fbda59e0bda4d60fabdd",
+  "password_salt": "96811e817aab594e657199782d5c645e",
+  "permissions": {
+    "ygo": true,
+    "mtg": false,
+    "pkm": false,
+    "op": false,
+    "fab": false,
+    "dgm": false,
+    "can_import_db": true,
+    "can_manage_users": false,
+    "can_update_online_db": true
+  }
 }
 ]
