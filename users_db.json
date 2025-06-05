@@ -1,20 +1,19 @@
 [
-{
   {
-  "username_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
-  "display_name": "admin",
-  "password_hash": "b9ff060e3530143a8ac216c44073258d7cab87c8723cb0c2ae295923c07c88b3",
-  "password_salt": "f56bb743d438841b8f9158928db0e3db",
-  "permissions": {
-    "ygo": true,
-    "mtg": true,
-    "pkm": true,
-    "op": true,
-    "fab": true,
-    "dgm": true,
-    "can_import_db": true,
-    "can_manage_users": true,
-    "can_update_online_db": true
+    "username_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "display_name": "admin",
+    "password_hash": "b9ff060e3530143a8ac216c44073258d7cab87c8723cb0c2ae295923c07c88b3",
+    "password_salt": "f56bb743d438841b8f9158928db0e3db",
+    "permissions": {
+      "ygo": true,
+      "mtg": true,
+      "pkm": true,
+      "op": true,
+      "fab": true,
+      "dgm": true,
+      "can_import_db": true,
+      "can_manage_users": true,
+      "can_update_online_db": true
+    }
   }
-}
 ]
