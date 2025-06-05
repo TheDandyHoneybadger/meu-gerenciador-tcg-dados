@@ -19,8 +19,8 @@
 {
   "username_hash": "71318126b97d81bf7d88fd59ad5c2ca3db88efcbeff055322d6e45178d57f16c",
   "display_name": "ygo",
-  "password_hash": "c7cf9bd99e3864bce915d11be107eb8aa5fda3ed65b9fbda59e0bda4d60fabdd",
-  "password_salt": "96811e817aab594e657199782d5c645e",
+  "password_hash": "59a6c6905c7a743501222aa9cf4ab7492de42540b7304c12bf4830b5acb95c09",
+  "password_salt": "6eb9bac8b467d032995417692ac1418a",
   "permissions": {
     "ygo": true,
     "mtg": false,
