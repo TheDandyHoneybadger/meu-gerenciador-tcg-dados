@@ -1,26 +1,10 @@
 [
 {
-  "username_hash": "71318126b97d81bf7d88fd59ad5c2ca3db88efcbeff055322d6e45178d57f16c",
-  "display_name": "YGO",
-  "password_hash": "4345ede812a78dd0f566c29ccc32fb7772bc5c937711a595fd0ad02d3a7a29c4",
-  "password_salt": "5a4bbb736abc06b78ddcd91d69941073",
-  "permissions": {
-    "ygo": true,
-    "mtg": false,
-    "pkm": false,
-    "op": false,
-    "fab": false,
-    "dgm": false,
-    "can_import_db": false,
-    "can_manage_users": false,
-    "can_update_online_db": true
-  }
-},
   {
   "username_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
-  "display_name": "Admin",
-  "password_hash": "9d0f9b3c0f25f20757fbcedaa4ef49da0441f827d6febd90ff9a6402363d7a42",
-  "password_salt": "1cbc36f7e02001278df5bd320395b93a",
+  "display_name": "admin",
+  "password_hash": "b9ff060e3530143a8ac216c44073258d7cab87c8723cb0c2ae295923c07c88b3",
+  "password_salt": "f56bb743d438841b8f9158928db0e3db",
   "permissions": {
     "ygo": true,
     "mtg": true,
