@@ -29,8 +29,8 @@
       "can_manage_users": false,
       "can_update_online_db": true
     },
-    "password_salt": "185d44eabb6fc20fe06f535212d43c90",
-    "password_hash": "62cf2fb09bc659933543765a4f5891ad6369473d31522070a035e7298652b95d",
+    "password_salt": "658f11fa462cc0b0f514fc0b035e9fde",
+    "password_hash": "f724a69ab5caea91d66717f2557b9364b17d55885385078e4731e1e3b2a39c5e",
     "username_hash": "71318126b97d81bf7d88fd59ad5c2ca3db88efcbeff055322d6e45178d57f16c"
   }
 ]
