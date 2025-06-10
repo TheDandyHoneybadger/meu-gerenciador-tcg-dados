@@ -1,6 +1,6 @@
 [
   {
-    "display_name": "admin",
+    "display_name": "SamBr",
     "permissions": {
       "ygo": true,
       "mtg": true,
@@ -12,12 +12,12 @@
       "can_manage_users": true,
       "can_update_online_db": true
     },
-    "password_salt": "909d6de6481fc9db531d4d549faa73b7",
-    "password_hash": "47faed9daaac160216875f75e8c02db91c232d24e8d2c75fc823e3958d0f9d17",
-    "username_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+    "password_salt": "889e6afdd1c8a2a60790413c93ab15a9",
+    "password_hash": "6e82959fe30ea88eacfcfcfb2ca0b67264d861cc28c275c4ac899492e7054492",
+    "username_hash": "2337106cddb3befd9e909c47a415c9219f30f330edde1bd24fbebe9ebcac0278"
   },
   {
-    "display_name": "ygo",
+    "display_name": "TiagoChain",
     "permissions": {
       "ygo": true,
       "mtg": false,
@@ -29,8 +29,8 @@
       "can_manage_users": false,
       "can_update_online_db": true
     },
-    "password_salt": "658f11fa462cc0b0f514fc0b035e9fde",
-    "password_hash": "f724a69ab5caea91d66717f2557b9364b17d55885385078e4731e1e3b2a39c5e",
-    "username_hash": "71318126b97d81bf7d88fd59ad5c2ca3db88efcbeff055322d6e45178d57f16c"
+    "password_salt": "ccd4ada36dd8c29e2e5658bf7e07ab6e",
+    "password_hash": "786b3edf5f5da1264a6ca1cec851355256096ccceb1f93dcc2fb8ea5b8d78a4b",
+    "username_hash": "bebc5ec3f01771d8f540b06c0634411220ae6a29c1d1cdcb98a4302a9f7e9fe9"
   }
 ]
