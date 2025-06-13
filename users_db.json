@@ -10,7 +10,8 @@
       "dgm": true,
       "can_import_db": true,
       "can_manage_users": true,
-      "can_update_online_db": true
+      "can_update_online_db": true,
+      "can_download_assets": true
     },
     "password_salt": "889e6afdd1c8a2a60790413c93ab15a9",
     "password_hash": "6e82959fe30ea88eacfcfcfb2ca0b67264d861cc28c275c4ac899492e7054492",
