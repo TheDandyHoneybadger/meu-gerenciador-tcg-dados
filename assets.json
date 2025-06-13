@@ -1,0 +1,121 @@
+{
+  "magic": {
+    "Blocos Modernos": [
+      {
+        "name": "Theros",
+        "sets": [
+          {"name": "Viagem para Nyx", "set_code": "JOU", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Journey-into-Nyx-set-symbol-300x282.png", "img_path": "imagens/mtg/JOU.png"},
+          {"name": "Nascidos dos Deuses", "set_code": "BNG", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Born-of-the-Gods-set-symbol.png", "img_path": "imagens/mtg/BNG.png"},
+          {"name": "Theros", "set_code": "THS", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Theros-set-symbol.png", "img_path": "imagens/mtg/THS.png"}
+        ]
+      },
+      {
+        "name": "Retorno a Ravnica",
+        "sets": [
+          {"name": "Labirinto do Dragão", "set_code": "DGM", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Dragons-Maze-set-symbol.png", "img_path": "imagens/mtg/DGM.png"},
+          {"name": "Portões Violados", "set_code": "GTC", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Gatecrash-set-symbol.png", "img_path": "imagens/mtg/GTC.png"},
+          {"name": "Retorno a Ravnica", "set_code": "RTR", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Return-to-Ravnica-set-symbol-300x288.png", "img_path": "imagens/mtg/RTR.png"}
+        ]
+      },
+      {
+        "name": "Innistrad",
+        "sets": [
+          {"name": "Retorno de Avacyn", "set_code": "AVR", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Avacyn-Restored-set-symbol-296x300.png", "img_path": "imagens/mtg/AVR.png"},
+          {"name": "Ascensão das Trevas", "set_code": "DKA", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Dark-Ascension-set-symbol.png", "img_path": "imagens/mtg/DKA.png"},
+          {"name": "Innistrad", "set_code": "ISD", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Innistrad-set-symbol-300x272.png", "img_path": "imagens/mtg/ISD.png"}
+        ]
+      }
+    ],
+    "Blocos Clássicos": [
+       {"name": "Cicatrizes de Mirrodin", "sets": [
+          {"name": "Nova Phyrexia", "set_code": "NPH", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/New-Phyrexia-set-symbol-205x300.png", "img_path": "imagens/mtg/NPH.png"},
+          {"name": "Mirrodin Sitiada", "set_code": "MBS", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Mirrodin-Besieged-set-symbol-239x300.png", "img_path": "imagens/mtg/MBS.png"},
+          {"name": "Cicatrizes de Mirrodin", "set_code": "SOM", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Scars-of-Mirrodin-set-symbol-300x300.png", "img_path": "imagens/mtg/SOM.png"}
+        ]},
+        {"name": "Zendikar", "sets": [
+            {"name": "Ascensão dos Eldrazi", "set_code": "ROE", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Rise-of-the-Eldrazi-set-symbol-300x276.png", "img_path": "imagens/mtg/ROE.png"},
+            {"name": "Despertar do Mundo", "set_code": "WWK", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Worldwake-set-symbol.png", "img_path": "imagens/mtg/WWK.png"},
+            {"name": "Zendikar", "set_code": "ZEN", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Zendikar-set-symbol-218x300.png", "img_path": "imagens/mtg/ZEN.png"}
+        ]}
+    ],
+    "Primórdios": [
+         {"name": "Saga de Urza", "sets": [
+            {"name": "Destino de Urza", "set_code": "UDS", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Urzas-Destiny-set-symbol-261x300.png", "img_path": "imagens/mtg/UDS.png"},
+            {"name": "Legado de Urza", "set_code": "ULG", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Urzas-Legacy-set-symbol.png", "img_path": "imagens/mtg/ULG.png"},
+            {"name": "Saga de Urza", "set_code": "USG", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Urzas-Saga-set-symbol.png", "img_path": "imagens/mtg/USG.png"}
+        ]},
+        {"name": "Tempestade", "sets": [
+            {"name": "Êxodo", "set_code": "EXO", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Exodus-set-symbol-300x124.png", "img_path": "imagens/mtg/EXO.png"},
+            {"name": "Fortaleza", "set_code": "STH", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Stronghold-set-symbol-290x300.png", "img_path": "imagens/mtg/STH.png"},
+            {"name": "Tempestade", "set_code": "TMP", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Tempest-set-symbol-300x249.png", "img_path": "imagens/mtg/TMP.png"}
+        ]},
+         {"name": "Era Glacial", "sets": [
+            {"name": "Alianças", "set_code": "ALL", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Alliances-set-symbol-300x132.png", "img_path": "imagens/mtg/ALL.png"},
+            {"name": "Era Glacial", "set_code": "ICE", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Ice-Age-set-symbol-288x300.png", "img_path": "imagens/mtg/ICE.png"}
+        ]},
+        {"name": "Iniciais", "sets": [
+            {"name": "Terras Natais", "set_code": "HML", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Homelands-set-symbol-300x295.png", "img_path": "imagens/mtg/HML.png"},
+            {"name": "Fallen Empires", "set_code": "FEM", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Fallen-Empires-set-symbol.png", "img_path": "imagens/mtg/FEM.png"},
+            {"name": "The Dark", "set_code": "DRK", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/The-Dark-set-symbol.png", "img_path": "imagens/mtg/DRK.png"},
+            {"name": "Lendas", "set_code": "LEG", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Legends-set-symbol-289x300.png", "img_path": "imagens/mtg/LEG.png"},
+            {"name": "Antiquities", "set_code": "ATQ", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Antiquities-set-symbol-300x177.png", "img_path": "imagens/mtg/ATQ.png"},
+            {"name": "Arabian Nights", "set_code": "ARN", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Arabian-Nights-set-symbol-300x139.png", "img_path": "imagens/mtg/ARN.png"}
+        ]}
+    ],
+    "Coleções Base e Especiais": [
+        {"name": "Core Sets", "sets": [
+            {"name": "Magic 2014", "set_code": "M14", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Magic-2014-set-symbol-300x160.png", "img_path": "imagens/mtg/M14.png"},
+            {"name": "Magic 2013", "set_code": "M13", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Magic-2013-set-symbol.png", "img_path": "imagens/mtg/M13.png"},
+            {"name": "Magic 2012", "set_code": "M12", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Magic-2012-set-symbol-300x160.png", "img_path": "imagens/mtg/M12.png"},
+            {"name": "Magic 2011", "set_code": "M11", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Magic-2011-set-symbol-300x160.png", "img_path": "imagens/mtg/M11.png"},
+            {"name": "Magic 2010", "set_code": "M10", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Magic-2010-set-symbol.png", "img_path": "imagens/mtg/M10.png"},
+            {"name": "Décima Edição", "set_code": "10E", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Tenth-Edition-set-symbol-300x231.png", "img_path": "imagens/mtg/10E.png"},
+            {"name": "Nona Edição", "set_code": "9ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Ninth-Edition-set-symbol.png", "img_path": "imagens/mtg/9ED.png"},
+            {"name": "Oitava Edição", "set_code": "8ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Eighth-Edition-set-symbol-300x252.png", "img_path": "imagens/mtg/8ED.png"},
+            {"name": "Sétima Edição", "set_code": "7ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Seventh-Edition-set-symbol-236x300.png", "img_path": "imagens/mtg/7ED.png"},
+            {"name": "Sexta Edição", "set_code": "6ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Sixth-Edition-set-symbol-300x222.png", "img_path": "imagens/mtg/6ED.png"},
+            {"name": "Quinta Edição", "set_code": "5ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Fifth-Edition-set-symbol-300x279.png", "img_path": "imagens/mtg/5ED.png"},
+            {"name": "Quarta Edição", "set_code": "4ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Fourth-Edition-set-symbol-300x203.png", "img_path": "imagens/mtg/4ED.png"},
+            {"name": "Revised Edition", "set_code": "3ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Revised-Edition-set-symbol-300x291.png", "img_path": "imagens/mtg/3ED.png"},
+            {"name": "Unlimited Edition", "set_code": "2ED", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Unlimited-Edition-set-symbol.png", "img_path": "imagens/mtg/2ED.png"},
+            {"name": "Limited Edition Beta", "set_code": "LEB", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Limited-Edition-Beta-set-symbol.png", "img_path": "imagens/mtg/LEB.png"},
+            {"name": "Limited Edition Alpha", "set_code": "LEA", "img_url": "https://draftsim.com/wp-content/uploads/2021/11/Limited-Edition-Alpha-set-symbol-300x300.png", "img_path": "imagens/mtg/LEA.png"}
+        ]},
+         {"name": "Especiais", "sets": [
+            {"name": "Conspiracy", "set_code": "CNS"}, {"name": "Commander 2014", "set_code": "C14"}, {"name": "Commander 2013", "set_code": "C13"}
+        ]}
+    ]
+  },
+  "pokemon": {
+     "SV": [
+        {"name": "Fábulas Nebulosas", "set_code": "SV09", "sigla": "NFA", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/74/SetSymbolShrouded_Fable.png/40px-SetSymbolShrouded_Fable.png", "img_path": "imagens/pokemon/NFA.png"},
+        {"name": "Máscaras do Crepúsculo", "set_code": "SV08", "sigla": "TWM", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/65/SetSymbolTwilight_Masquerade.png/40px-SetSymbolTwilight_Masquerade.png", "img_path": "imagens/pokemon/TWM.png"},
+        {"name": "Forças Temporais", "set_code": "SV07", "sigla": "TEF", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/33/SetSymbolTemporal_Forces.png/40px-SetSymbolTemporal_Forces.png", "img_path": "imagens/pokemon/TEF.png"},
+        {"name": "Destinos de Paldea", "set_code": "SV06", "sigla": "PAF", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/SetSymbolPaldean_Fates.png/40px-SetSymbolPaldean_Fates.png", "img_path": "imagens/pokemon/PAF.png"},
+        {"name": "Fenda Paradoxal", "set_code": "SV05", "sigla": "PAR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/SetSymbolParadox_Rift.png/40px-SetSymbolParadox_Rift.png", "img_path": "imagens/pokemon/PAR.png"},
+        {"name": "151", "set_code": "SV04", "sigla": "MEW", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/71/SetSymbol151.png/40px-SetSymbol151.png", "img_path": "imagens/pokemon/MEW.png"},
+        {"name": "Obsidiana em Chamas", "set_code": "SV03", "sigla": "OBF", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3d/SetSymbolObsidian_Flames.png/40px-SetSymbolObsidian_Flames.png", "img_path": "imagens/pokemon/OBF.png"},
+        {"name": "Evoluções em Paldea", "set_code": "SV02", "sigla": "PAL", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8d/SetSymbolPaldea_Evolved.png/40px-SetSymbolPaldea_Evolved.png", "img_path": "imagens/pokemon/PAL.png"},
+        {"name": "Escarlate e Violeta", "set_code": "SV01", "sigla": "SVI", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolScarlet_and_Violet.png/40px-SetSymbolScarlet_and_Violet.png", "img_path": "imagens/pokemon/SVI.png"}
+    ],
+    "SW": [
+        {"name": "Realeza Absoluta", "set_code": "SW17", "sigla": "CRZ", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/21/SetSymbolCrown_Zenith.png/40px-SetSymbolCrown_Zenith.png", "img_path": "imagens/pokemon/CRZ.png"},
+        {"name": "Tempestade Prateada", "set_code": "SW16", "sigla": "SIT", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/55/SetSymbolSilver_Tempest.png/40px-SetSymbolSilver_Tempest.png", "img_path": "imagens/pokemon/SIT.png"},
+        {"name": "Origem Perdida", "set_code": "SW15", "sigla": "LOR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/SetSymbolLost_Origin.png/40px-SetSymbolLost_Origin.png", "img_path": "imagens/pokemon/LOR.png"},
+        {"name": "Pokémon GO", "set_code": "SW14", "sigla": "PGO", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/01/SetSymbolPok%C3%A9mon_GO.png/40px-SetSymbolPok%C3%A9mon_GO.png", "img_path": "imagens/pokemon/PGO.png"},
+        {"name": "Radiância Astral", "set_code": "SW13", "sigla": "ASR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/SetSymbolAstral_Radiance.png/40px-SetSymbolAstral_Radiance.png", "img_path": "imagens/pokemon/ASR.png"},
+        {"name": "Estrelas Brilhantes", "set_code": "SW12", "sigla": "BRS", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/00/SetSymbolBrilliant_Stars.png/40px-SetSymbolBrilliant_Stars.png", "img_path": "imagens/pokemon/BRS.png"},
+        {"name": "Golpe Fusão", "set_code": "SW11", "sigla": "FST", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/79/SetSymbolFusion_Strike.png/40px-SetSymbolFusion_Strike.png", "img_path": "imagens/pokemon/FST.png"},
+        {"name": "Celebrações", "set_code": "SW10", "sigla": "CEL", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/32/SetSymbolCelebrations.png/40px-SetSymbolCelebrations.png", "img_path": "imagens/pokemon/CEL.png"},
+        {"name": "Céus em Evolução", "set_code": "SW09", "sigla": "EVS", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/cb/SetSymbolEvolving_Skies.png/40px-SetSymbolEvolving_Skies.png", "img_path": "imagens/pokemon/EVS.png"},
+        {"name": "Reinado Arrepiante", "set_code": "SW08", "sigla": "CRE", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/02/SetSymbolChilling_Reign.png/40px-SetSymbolChilling_Reign.png", "img_path": "imagens/pokemon/CRE.png"},
+        {"name": "Estilos de Batalha", "set_code": "SW07", "sigla": "BST", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/16/SetSymbolBattle_Styles.png/40px-SetSymbolBattle_Styles.png", "img_path": "imagens/pokemon/BST.png"},
+        {"name": "Destinos Brilhantes", "set_code": "SW06", "sigla": "SHF", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/64/SetSymbolShining_Fates.png/40px-SetSymbolShining_Fates.png", "img_path": "imagens/pokemon/SHF.png"},
+        {"name": "Voltagem Vívida", "set_code": "SW05", "sigla": "VIV", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9b/SetSymbolVivid_Voltage.png/40px-SetSymbolVivid_Voltage.png", "img_path": "imagens/pokemon/VIV.png"},
+        {"name": "Caminho do Campeão", "set_code": "SW04", "sigla": "CPA", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4d/SetSymbolChampion_Path.png/40px-SetSymbolChampion_Path.png", "img_path": "imagens/pokemon/CPA.png"},
+        {"name": "Escuridão Incandescente", "set_code": "SW03", "sigla": "DAA", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/d/d9/SetSymbolDarkness_Ablaze.png/40px-SetSymbolDarkness_Ablaze.png", "img_path": "imagens/pokemon/DAA.png"},
+        {"name": "Rixa Rebelde", "set_code": "SW02", "sigla": "RCL", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0f/SetSymbolRebel_Clash.png/40px-SetSymbolRebel_Clash.png", "img_path": "imagens/pokemon/RCL.png"},
+        {"name": "Espada e Escudo", "set_code": "SW01", "sigla": "SSH", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/51/SetSymbolSword_and_Shield.png/40px-SetSymbolSword_and_Shield.png", "img_path": "imagens/pokemon/SSH.png"}
+    ]
+  }
+}
