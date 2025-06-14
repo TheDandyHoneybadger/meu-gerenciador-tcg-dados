@@ -102,6 +102,7 @@
   },
   "pokemon": {
     "SV": [
+      { "name": "Escarlate e Violeta Promos", "set_code": "SSPR", "sigla": "SSPR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png", "img_path": "imagens/pokemon/SV/SSPR.png" },
       { "name": "Fábulas Nebulosas", "set_code": "SV09", "sigla": "NFA", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/74/SetSymbolShrouded_Fable.png/40px-SetSymbolShrouded_Fable.png", "img_path": "imagens/pokemon/SV/NFA.png" },
       { "name": "Máscaras do Crepúsculo", "set_code": "SV08", "sigla": "TWM", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/65/SetSymbolTwilight_Masquerade.png/40px-SetSymbolTwilight_Masquerade.png", "img_path": "imagens/pokemon/SV/TWM.png" },
       { "name": "Forças Temporais", "set_code": "SV07", "sigla": "TEF", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/33/SetSymbolTemporal_Forces.png/40px-SetSymbolTemporal_Forces.png", "img_path": "imagens/pokemon/SV/TEF.png" },
@@ -113,6 +114,7 @@
       { "name": "Escarlate e Violeta", "set_code": "SV01", "sigla": "SVI", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolScarlet_and_Violet.png/40px-SetSymbolScarlet_and_Violet.png", "img_path": "imagens/pokemon/SV/SVI.png" }
     ],
     "SW": [
+      { "name": "Espada e Escudo Promos", "set_code": "SWPR", "sigla": "SWPR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png", "img_path": "imagens/pokemon/SW/SWPR.png" },
       { "name": "Realeza Absoluta", "set_code": "SW17", "sigla": "CRZ", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/21/SetSymbolCrown_Zenith.png/40px-SetSymbolCrown_Zenith.png", "img_path": "imagens/pokemon/SW/CRZ.png" },
       { "name": "Tempestade Prateada", "set_code": "SW16", "sigla": "SIT", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/55/SetSymbolSilver_Tempest.png/40px-SetSymbolSilver_Tempest.png", "img_path": "imagens/pokemon/SW/SIT.png" },
       { "name": "Origem Perdida", "set_code": "SW15", "sigla": "LOR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/SetSymbolLost_Origin.png/40px-SetSymbolLost_Origin.png", "img_path": "imagens/pokemon/SW/LOR.png" },
@@ -151,8 +153,8 @@
       { "name": "Eclipse Cósmico", "set_code": "CEC", "sigla": "CEC", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/SetSymbolCosmic_Eclipse.png/40px-SetSymbolCosmic_Eclipse.png", "img_path": "imagens/pokemon/SM/CEC.png" }
     ],
     "XY": [
-      { "name": "Conjunto para Iniciantes Kalos", "set_code": "KSS", "sigla": "KSS", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/SetSymbolKalos_Starter_Set.png/40px-SetSymbolKalos_Starter_Set.png", "img_path": "imagens/pokemon/XY/KSS.png" },
       { "name": "XY Promos", "set_code": "XYPR", "sigla": "XYPR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png", "img_path": "imagens/pokemon/XY/XYPR.png" },
+      { "name": "Conjunto para Iniciantes Kalos", "set_code": "KSS", "sigla": "KSS", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/SetSymbolKalos_Starter_Set.png/40px-SetSymbolKalos_Starter_Set.png", "img_path": "imagens/pokemon/XY/KSS.png" },
       { "name": "XY", "set_code": "XY", "sigla": "XY", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6b/SetSymbolXY.png/40px-SetSymbolXY.png", "img_path": "imagens/pokemon/XY/XY.png" },
       { "name": "Flash de Fogo", "set_code": "FLF", "sigla": "FLF", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolFlashfire.png/40px-SetSymbolFlashfire.png", "img_path": "imagens/pokemon/XY/FLF.png" },
       { "name": "Punhos Furiosos", "set_code": "FFI", "sigla": "FFI", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/07/SetSymbolFurious_Fists.png/40px-SetSymbolFurious_Fists.png", "img_path": "imagens/pokemon/XY/FFI.png" },
@@ -184,6 +186,7 @@
       { "name": "Tesouros Lendários", "set_code": "LTR", "sigla": "LTR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3c/SetSymbolLegendary_Treasures.png/40px-SetSymbolLegendary_Treasures.png", "img_path": "imagens/pokemon/BW/LTR.png" }
     ],
     "HS": [
+      { "name": "HeartGold & SoulSilver Promos", "set_code": "HSPR", "sigla": "HSPR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png", "img_path": "imagens/pokemon/HS/HSPR.png" },
       { "name": "HeartGold & SoulSilver", "set_code": "HS", "sigla": "HS", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/30/SetSymbolHeartGold_and_SoulSilver.png/40px-SetSymbolHeartGold_and_SoulSilver.png", "img_path": "imagens/pokemon/HS/HS.png" },
       { "name": "Revelado", "set_code": "UL", "sigla": "UL", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/42/SetSymbolUnleashed.png/40px-SetSymbolUnleashed.png", "img_path": "imagens/pokemon/HS/UL.png" },
       { "name": "Destemido", "set_code": "UD", "sigla": "UD", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/73/SetSymbolUndaunted.png/40px-SetSymbolUndaunted.png", "img_path": "imagens/pokemon/HS/UD.png" },
@@ -197,6 +200,7 @@
       { "name": "Arceus", "set_code": "AR", "sigla": "AR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/96/SetSymbolArceus.png/40px-SetSymbolArceus.png", "img_path": "imagens/pokemon/PL/AR.png" }
     ],
     "DP": [
+      { "name": "Diamante & Pérola Promos", "set_code": "DPPR", "sigla": "DPPR", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png", "img_path": "imagens/pokemon/DP/DPPR.png" },
       { "name": "Diamante & Pérola", "set_code": "DP", "sigla": "DP", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolDiamond_and_Pearl.png/40px-SetSymbolDiamond_and_Pearl.png", "img_path": "imagens/pokemon/DP/DP.png" },
       { "name": "Maravilhas Secretas", "set_code": "SW", "sigla": "SW", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolSecret_Wonders.png/40px-SetSymbolSecret_Wonders.png", "img_path": "imagens/pokemon/DP/SW.png" },
       { "name": "Great Encounters", "set_code": "GE", "sigla": "GE", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e8/SetSymbolGreat_Encounters.png/40px-SetSymbolGreat_Encounters.png", "img_path": "imagens/pokemon/DP/GE.png" },
@@ -223,6 +227,7 @@
       { "name": "Power Keepers", "set_code": "PK", "sigla": "PK", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolPower_Keepers.png/40px-SetSymbolPower_Keepers.png", "img_path": "imagens/pokemon/EX/PK.png" }
     ],
     "WotC": [
+      { "name": "Base Set", "set_code": "BS", "sigla": "BS", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/1st_edition_English.png/120px-1st_edition_English.png", "img_path": "imagens/pokemon/WotC/BS.png" },
       { "name": "Selva", "set_code": "JU", "sigla": "JU", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/40px-SetSymbolJungle.png", "img_path": "imagens/pokemon/WotC/JU.png" },
       { "name": "Fóssil", "set_code": "FO", "sigla": "FO", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e6/SetSymbolFossil.png/40px-SetSymbolFossil.png", "img_path": "imagens/pokemon/WotC/FO.png" },
       { "name": "Base Set 2", "set_code": "B2", "sigla": "B2", "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/36/SetSymbolBase_Set_2.png/40px-SetSymbolBase_Set_2.png", "img_path": "imagens/pokemon/WotC/B2.png" },
