@@ -33,5 +33,23 @@
     "password_salt": "ccd4ada36dd8c29e2e5658bf7e07ab6e",
     "password_hash": "786b3edf5f5da1264a6ca1cec851355256096ccceb1f93dcc2fb8ea5b8d78a4b",
     "username_hash": "bebc5ec3f01771d8f540b06c0634411220ae6a29c1d1cdcb98a4302a9f7e9fe9"
+  },
+  {
+    "display_name": "test",
+    "permissions": {
+      "ygo": true,
+      "mtg": true,
+      "pkm": true,
+      "op": true,
+      "fab": true,
+      "dgm": true,
+      "can_import_db": true,
+      "can_manage_users": true,
+      "can_update_online_db": true,
+      "can_download_assets": true
+    },
+    "password_salt": "77371fe335ccaf7cd5d659570da8b53b",
+    "password_hash": "bf983bb01f24ed9fbe1818f45337df99d11ce9752c67b58a80924b44987c5865",
+    "username_hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
   }
 ]
