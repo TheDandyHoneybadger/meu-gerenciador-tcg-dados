@@ -714,73 +714,108 @@
   "pokemon": {
     "SV": [
       {
+        "name": "Rivais Predestinados",
+        "set_code": "DRI",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1746110549191323.png",
+        "img_path": "imagens/pokemon/SV/DRI.png"
+      },
+      {
+        "name": "Amigos de Jornada",
+        "set_code": "JTG",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1741729846191323.png",
+        "img_path": "imagens/pokemon/SV/JTG.png"
+      },
+      {
+        "name": "Evoluções Prismáticas",
+        "set_code": "PRE",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1736283746191323.png",
+        "img_path": "imagens/pokemon/SV/PRE.png"
+      },
+      {
+        "name": "Fagulhas Impetuosas",
+        "set_code": "SSP",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1729030065191323.png",
+        "img_path": "imagens/pokemon/SV/SSP.png"
+      },
+      {
+        "name": "Coroa Estelar",
+        "set_code": "SCR",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1724351824191323.png",
+        "img_path": "imagens/pokemon/SV/SCR.png"
+      },
+      {
         "name": "Fábulas Nebulosas",
         "set_code": "SV09",
         "sigla": "NFA",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/74/SetSymbolShrouded_Fable.png/40px-SetSymbolShrouded_Fable.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1715882405191323.png",
         "img_path": "imagens/pokemon/SV/NFA.png"
       },
       {
         "name": "Máscaras do Crepúsculo",
         "set_code": "SV08",
         "sigla": "TWM",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/65/SetSymbolTwilight_Masquerade.png/40px-SetSymbolTwilight_Masquerade.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1713212542191323.png",
         "img_path": "imagens/pokemon/SV/TWM.png"
       },
       {
         "name": "Forças Temporais",
         "set_code": "SV07",
         "sigla": "TEF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/33/SetSymbolTemporal_Forces.png/40px-SetSymbolTemporal_Forces.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1710514831329019.png",
         "img_path": "imagens/pokemon/SV/TEF.png"
       },
       {
         "name": "Destinos de Paldea",
         "set_code": "SV06",
         "sigla": "PAF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/SetSymbolPaldean_Fates.png/40px-SetSymbolPaldean_Fates.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1704300618191323.png",
         "img_path": "imagens/pokemon/SV/PAF.png"
       },
       {
         "name": "Fenda Paradoxal",
         "set_code": "SV05",
         "sigla": "PAR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/SetSymbolParadox_Rift.png/40px-SetSymbolParadox_Rift.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1698690052191323.png",
         "img_path": "imagens/pokemon/SV/PAR.png"
       },
       {
         "name": "151",
         "set_code": "SV04",
         "sigla": "MEW",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/71/SetSymbol151.png/40px-SetSymbol151.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1692110244191323.png",
         "img_path": "imagens/pokemon/SV/MEW.png"
       },
       {
         "name": "Obsidiana em Chamas",
         "set_code": "SV03",
         "sigla": "OBF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3d/SetSymbolObsidian_Flames.png/40px-SetSymbolObsidian_Flames.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1691000252191323.png",
         "img_path": "imagens/pokemon/SV/OBF.png"
       },
       {
         "name": "Evoluções em Paldea",
         "set_code": "SV02",
         "sigla": "PAL",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8d/SetSymbolPaldea_Evolved.png/40px-SetSymbolPaldea_Evolved.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1686247081191323.png",
         "img_path": "imagens/pokemon/SV/PAL.png"
       },
       {
         "name": "Escarlate e Violeta",
         "set_code": "SV01",
         "sigla": "SVI",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolScarlet_and_Violet.png/40px-SetSymbolScarlet_and_Violet.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/1674588593191323.png",
         "img_path": "imagens/pokemon/SV/SVI.png"
       },
       {
         "name": "Escarlate e Violeta Promos",
         "set_code": "SSPR",
         "sigla": "SSPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/SV/SSPR.png"
       }
     ],
@@ -908,7 +943,7 @@
         "name": "Espada e Escudo Promos",
         "set_code": "SWPR",
         "sigla": "SWPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/SW/SWPR.png"
       }
     ],
@@ -1029,7 +1064,7 @@
         "name": "Sol e Lua Promos",
         "set_code": "SMP",
         "sigla": "SMP",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/SM/SMP.png"
       }
     ],
@@ -1143,7 +1178,7 @@
         "name": "XY Promos",
         "set_code": "XYPR",
         "sigla": "XYPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/XY/XYPR.png"
       }
     ],
@@ -1236,7 +1271,7 @@
         "name": "Black & White Promos",
         "set_code": "BWPR",
         "sigla": "BWPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/BW/BWPR.png"
       }
     ],
@@ -1280,7 +1315,7 @@
         "name": "HeartGold & SoulSilver Promos",
         "set_code": "HSPR",
         "sigla": "HSPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/HS/HSPR.png"
       }
     ],
@@ -1361,7 +1396,7 @@
         "name": "Diamante & Pérola Promos",
         "set_code": "DPPR",
         "sigla": "DPPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/DP/DPPR.png"
       }
     ],
@@ -1766,7 +1801,7 @@
         "name": "Promos",
         "set_code": "PR",
         "sigla": "PR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/ed/XYPR.png",
         "img_path": "imagens/pokemon/Especiais/PR.png"
       },
       {
