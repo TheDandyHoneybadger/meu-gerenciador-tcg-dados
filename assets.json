@@ -134,12 +134,6 @@
         "img_path": "imagens/mtg/Blocos/LW.png"
       },
       {
-        "name": "Frente Fria",
-        "set_code": "CS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CS_C.gif",
-        "img_path": "imagens/mtg/Primórdios/CS.png"
-      },
-      {
         "name": "Visão do Futuro",
         "set_code": "FUT",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FUT_C.gif",
@@ -156,6 +150,12 @@
         "set_code": "TS",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TS_C.gif",
         "img_path": "imagens/mtg/Blocos/TS.png"
+      },
+      {
+        "name": "Frente Fria",
+        "set_code": "CS",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CS_C.gif",
+        "img_path": "imagens/mtg/Primórdios/CS.png"
       },
       {
         "name": "Insurreição",
@@ -188,17 +188,17 @@
         "img_path": "imagens/mtg/Blocos/BOK.png"
       },
       {
+        "name": "Campeões de Kamigawa",
+        "set_code": "CHK",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CHK_C.gif",
+        "img_path": "imagens/mtg/Blocos/CHK.png"
+      },
+      {
         "name": "Unhunged",
         "set_code": "UH",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UH_C.gif",
         "img_path": "imagens/mtg/Blocos/UH.png"
-      },
-      {
-        "name": "Campeões de Kamigawa",
-        "set_code": "CHK",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CHK_C.gif",
-        "img_path": "imagens/mtg/Blocos/CHK.png"
       },
       {
         "name": "A Quinta Aurora",
@@ -217,11 +217,10 @@
         "set_code": "MI",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MI_C.gif",
         "img_path": "imagens/mtg/Blocos/MI.png"
-      },
-      
+      }
     ],
-    "Old_Frame": [
-	{
+    "Old Frame": [
+      {
         "name": "Flagelo",
         "set_code": "SC",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SC_C.gif",
@@ -279,149 +278,149 @@
         "name": "Profecia",
         "set_code": "PR",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PR_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/PR.png"
+        "img_path": "imagens/mtg/Primórdios/PR.png"
       },
       {
         "name": "Nêmesis",
         "set_code": "NE",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/NE_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/NE.png"
+        "img_path": "imagens/mtg/Primórdios/NE.png"
       },
       {
         "name": "Máscaras de Mercádia",
         "set_code": "MM",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MM_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/MM.png"
-      },
-      {
-        "name": "Destino de Urza",
-        "set_code": "UD",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UD_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/UD.png"
+        "img_path": "imagens/mtg/Primórdios/MM.png"
       },
       {
         "name": "Portal Three Kingdoms",
         "set_code": "P3K",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/P3K_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/P3K.png"
+        "img_path": "imagens/mtg/Primórdios/P3K.png"
+      },
+      {
+        "name": "Destino de Urza",
+        "set_code": "UD",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UD_C.gif",
+        "img_path": "imagens/mtg/Primórdios/UD.png"
       },
       {
         "name": "Legado de Urza",
         "set_code": "UL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UL_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/UL.png"
+        "img_path": "imagens/mtg/Primórdios/UL.png"
       },
       {
         "name": "Saga de Urza",
         "set_code": "US",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/US_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/US.png"
+        "img_path": "imagens/mtg/Primórdios/US.png"
       },
       {
         "name": "Unglued",
         "set_code": "UG",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UG_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/UG.png"
-      },
-      {
-        "name": "Êxodo",
-        "set_code": "EX",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EX_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/EX.png"
+        "img_path": "imagens/mtg/Primórdios/UG.png"
       },
       {
         "name": "Portal Second Age",
         "set_code": "PO2",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PO2_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/PO2.png"
+        "img_path": "imagens/mtg/Primórdios/PO2.png"
+      },
+      {
+        "name": "Êxodo",
+        "set_code": "EX",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EX_C.gif",
+        "img_path": "imagens/mtg/Primórdios/EX.png"
       },
       {
         "name": "Fortaleza",
         "set_code": "SH",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SH_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/SH.png"
+        "img_path": "imagens/mtg/Primórdios/SH.png"
       },
       {
         "name": "Tempestade",
         "set_code": "TP",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TP_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/TP.png"
-      },
-      {
-        "name": "Alisios",
-        "set_code": "WL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/WL_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/WL.png"
+        "img_path": "imagens/mtg/Primórdios/TP.png"
       },
       {
         "name": "Portal",
         "set_code": "PO",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PO_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/PO.png"
+        "img_path": "imagens/mtg/Primórdios/PO.png"
+      },
+      {
+        "name": "Alisios",
+        "set_code": "WL",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/WL_C.gif",
+        "img_path": "imagens/mtg/Primórdios/WL.png"
       },
       {
         "name": "Visões",
         "set_code": "VI",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/VI_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/VI.png"
+        "img_path": "imagens/mtg/Primórdios/VI.png"
       },
       {
         "name": "Miragem",
         "set_code": "MR",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MR_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/MR.png"
+        "img_path": "imagens/mtg/Primórdios/MR.png"
       },
       {
         "name": "Alianças",
         "set_code": "AI",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AI_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/AI.png"
-      },
-      {
-        "name": "Era Glacial",
-        "set_code": "IA",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/IA_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/IA.png"
+        "img_path": "imagens/mtg/Primórdios/AI.png"
       },
       {
         "name": "Terras Natais",
         "set_code": "HL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/HL_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/HL.png"
+        "img_path": "imagens/mtg/Primórdios/HL.png"
+      },
+      {
+        "name": "Era Glacial",
+        "set_code": "IA",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/IA_C.gif",
+        "img_path": "imagens/mtg/Primórdios/IA.png"
       },
       {
         "name": "Fallen Empires",
         "set_code": "FE",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FE_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/FE.png"
+        "img_path": "imagens/mtg/Primórdios/FE.png"
       },
       {
         "name": "The Dark",
         "set_code": "DK",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DK_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/DK.png"
+        "img_path": "imagens/mtg/Primórdios/DK.png"
       },
       {
         "name": "Lendas",
         "set_code": "LG",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LG_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/LG.png"
+        "img_path": "imagens/mtg/Primórdios/LG.png"
       },
       {
         "name": "Antiquities",
         "set_code": "AQ",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AQ_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/AQ.png"
+        "img_path": "imagens/mtg/Primórdios/AQ.png"
       },
       {
         "name": "Arabian Nights",
         "set_code": "AN",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AN_C.gif",
-        "img_path": "imagens/mtg/Old_Frame/AN.png"
+        "img_path": "imagens/mtg/Primórdios/AN.png"
       }
     ],
     "Core Set": [
@@ -502,7 +501,7 @@
         "set_code": "4EB",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/4EB_C.gif",
-        "img_path": "imagens/mtg/Core Set/4EB.png"
+        "img_path": "imagens/mtg/Core_Set/4EB.png"
       },
       {
         "name": "Revised Edition",
@@ -515,7 +514,7 @@
         "set_code": "RVB",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/RVB_C.gif",
-        "img_path": "imagens/mtg/Core Set/RVB.png"
+        "img_path": "imagens/mtg/Core_Set/RVB.png"
       },
       {
         "name": "Unlimited Edition",
@@ -538,27 +537,6 @@
     ],
     "Decks": [
       {
-        "name": "Duel Decks: Divine vs. Demonic",
-        "set_code": "DVD",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DVD_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/DVD.png"
-      },
-      {
-        "name": "Duel Decks: Garruk vs. Liliana",
-        "set_code": "GLV",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/GVL_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/GLV.png"
-      },
-      {
-        "name": "Duel Decks: Elspeth vs. Tezzeret",
-        "set_code": "DDF",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDF_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/DDF.png"
-      },
-      {
         "name": "Duel Decks: Jace vs. Vraska",
         "set_code": "DDM",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDM_C.gif",
@@ -577,13 +555,6 @@
         "img_path": "imagens/mtg/Duel_Decks/DDK.png"
       },
       {
-        "name": "Duel Decks: Phyrexia vs. The Coalition",
-        "set_code": "PVC",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PVC_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/PVC.png"
-      },
-      {
         "name": "Duel Decks: Izzet vs. Golgari",
         "set_code": "DDJ",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDJ_C.gif",
@@ -596,20 +567,6 @@
         "img_path": "imagens/mtg/Duel_Decks/DDI.png"
       },
       {
-        "name": "Duel Decks: Knights vs. Dragons",
-        "set_code": "DDG",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDG_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/DDG.png"
-      },
-      {
-        "name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",
-        "set_code": "TD2",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TD2_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/TD2.png"
-      },
-      {
         "name": "Duel Decks: Ajani vs. Nicol Bolas",
         "set_code": "DDH",
         "sigla": "",
@@ -617,17 +574,39 @@
         "img_path": "imagens/mtg/Duel_Decks/DDH.png"
       },
       {
-        "name": "Modern Event Deck",
-        "set_code": "MD1",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MD1_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/MD1.png"
+        "name": "Duel Decks: Knights vs. Dragons",
+        "set_code": "DDG",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDG_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DDG.png"
       },
       {
-        "name": "Premium Deck Series: Slivers",
-        "set_code": "PDS",
+        "name": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_code": "DDF",
         "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PDS_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/PDS.png"
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDF_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DDF.png"
+      },
+      {
+        "name": "Duel Decks: Divine vs. Demonic",
+        "set_code": "DVD",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DVD_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DVD.png"
+      },
+      {
+        "name": "Duel Decks: Garruk vs. Liliana",
+        "set_code": "GLV",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/GVL_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/GLV.png"
+      },
+      {
+        "name": "Premium Deck Series: Graveborn",
+        "set_code": "PD3",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PD3_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PD3.png"
       },
       {
         "name": "Premium Deck Series: Fire and Lightning",
@@ -637,21 +616,34 @@
         "img_path": "imagens/mtg/Duel_Decks/PD2.png"
       },
       {
-        "name": "Premium Deck Series: Graveborn",
-        "set_code": "PD3",
+        "name": "Duel Decks: Phyrexia vs. The Coalition",
+        "set_code": "PVC",
         "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PD3_C.gif",
-        "img_path": "imagens/mtg/Duel_Decks/PD3.png"
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PVC_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PVC.png"
+      },
+      {
+        "name": "Premium Deck Series: Slivers",
+        "set_code": "PDS",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PDS_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PDS.png"
+      },
+      {
+        "name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",
+        "set_code": "TD2",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TD2_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/TD2.png"
+      },
+      {
+        "name": "Modern Event Deck",
+        "set_code": "MD1",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MD1_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/MD1.png"
       }
     ],
     "Outros": [
-      {
-        "name": "Archenemy",
-        "set_code": "ARC",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ARC_C.gif",
-        "img_path": "imagens/mtg/Outros/ARC.png"
-      },
       {
         "name": "Conspiracy",
         "set_code": "CNS",
@@ -660,42 +652,10 @@
         "img_path": "imagens/mtg/Outros/CNS.png"
       },
       {
-        "name": "From the Vault: Dragons",
-        "set_code": "FVD",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVD_C.gif",
-        "img_path": "imagens/mtg/Outros/FVD.png"
-      },
-      {
         "name": "From the Vault: Twenty",
         "set_code": "V13",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/V13_C.gif",
         "img_path": "imagens/mtg/Outros/V13.png"
-      },
-      {
-        "name": "From the Vault: Relics",
-        "set_code": "FVR",
-        "sigla": "",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVR_C.gif",
-        "img_path": "imagens/mtg/Outros/FVR.png"
-      },
-      {
-        "name": "From the Vault: Realms",
-        "set_code": "V12",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/V12_C.gif",
-        "img_path": "imagens/mtg/Outros/V12.png"
-      },
-      {
-        "name": "From the Vault: Legends",
-        "set_code": "FVL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVL_C.gif",
-        "img_path": "imagens/mtg/Outros/FVL.png"
-      },
-      {
-        "name": "Commander's Arsenal",
-        "set_code": "CMA",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CMA_C.gif",
-        "img_path": "imagens/mtg/Outros/CMA.png"
       },
       {
         "name": "Modern Masters",
@@ -705,22 +665,54 @@
         "img_path": "imagens/mtg/Outros/MMA.png"
       },
       {
+        "name": "Commander's Arsenal",
+        "set_code": "CMA",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CMA_C.gif",
+        "img_path": "imagens/mtg/Outros/CMA.png"
+      },
+      {
+        "name": "From the Vault: Realms",
+        "set_code": "V12",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/V12_C.gif",
+        "img_path": "imagens/mtg/Outros/V12.png"
+      },
+      {
         "name": "Planechase 2012 Edition",
         "set_code": "PC2",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PC2_C.gif",
         "img_path": "imagens/mtg/Outros/PC2.png"
+      },
+      {
+        "name": "From the Vault: Legends",
+        "set_code": "FVL",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVL_C.gif",
+        "img_path": "imagens/mtg/Outros/FVL.png"
+      },
+      {
+        "name": "Archenemy",
+        "set_code": "ARC",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ARC_C.gif",
+        "img_path": "imagens/mtg/Outros/ARC.png"
+      },
+      {
+        "name": "From the Vault: Relics",
+        "set_code": "FVR",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVR_C.gif",
+        "img_path": "imagens/mtg/Outros/FVR.png"
+      },
+      {
+        "name": "From the Vault: Dragons",
+        "set_code": "FVD",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVD_C.gif",
+        "img_path": "imagens/mtg/Outros/FVD.png"
       }
     ]
   },
   "pokemon": {
     "SV": [
-      {
-        "name": "Escarlate e Violeta Promos",
-        "set_code": "SSPR",
-        "sigla": "SSPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/SV/SSPR.png"
-      },
       {
         "name": "Fábulas Nebulosas",
         "set_code": "SV09",
@@ -783,16 +775,16 @@
         "sigla": "SVI",
         "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolScarlet_and_Violet.png/40px-SetSymbolScarlet_and_Violet.png",
         "img_path": "imagens/pokemon/SV/SVI.png"
+      },
+      {
+        "name": "Escarlate e Violeta Promos",
+        "set_code": "SSPR",
+        "sigla": "SSPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/SV/SSPR.png"
       }
     ],
     "SW": [
-      {
-        "name": "Espada e Escudo Promos",
-        "set_code": "SWPR",
-        "sigla": "SWPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/SW/SWPR.png"
-      },
       {
         "name": "Realeza Absoluta",
         "set_code": "SW17",
@@ -911,113 +903,22 @@
         "sigla": "SSH",
         "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/51/SetSymbolSword_and_Shield.png/40px-SetSymbolSword_and_Shield.png",
         "img_path": "imagens/pokemon/SW/SSH.png"
+      },
+      {
+        "name": "Espada e Escudo Promos",
+        "set_code": "SWPR",
+        "sigla": "SWPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/SW/SWPR.png"
       }
     ],
     "SM": [
       {
-        "name": "Sol e Lua Promos",
-        "set_code": "SMP",
-        "sigla": "SMP",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/SM/SMP.png"
-      },
-      {
-        "name": "Sol e Lua",
-        "set_code": "SUM",
-        "sigla": "SUM",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/cb/SetSymbolSun_and_Moon.png/40px-SetSymbolSun_and_Moon.png",
-        "img_path": "imagens/pokemon/SM/SUM.png"
-      },
-      {
-        "name": "Guardiões Ascendentes",
-        "set_code": "GRI",
-        "sigla": "GRI",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/68/SetSymbolGuardians_Rising.png/40px-SetSymbolGuardians_Rising.png",
-        "img_path": "imagens/pokemon/SM/GRI.png"
-      },
-      {
-        "name": "Sombras Ardentes",
-        "set_code": "BUS",
-        "sigla": "BUS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/SetSymbolBurning_Shadows.png/40px-SetSymbolBurning_Shadows.png",
-        "img_path": "imagens/pokemon/SM/BUS.png"
-      },
-      {
-        "name": "Lendas Luminescentes",
-        "set_code": "SLG",
-        "sigla": "SLG",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/54/SetSymbolShining_Legends.png/40px-SetSymbolShining_Legends.png",
-        "img_path": "imagens/pokemon/SM/SLG.png"
-      },
-      {
-        "name": "Invasão Carmim",
-        "set_code": "CIN",
-        "sigla": "CIN",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/46/SetSymbolCrimson_Invasion.png/40px-SetSymbolCrimson_Invasion.png",
-        "img_path": "imagens/pokemon/SM/CIN.png"
-      },
-      {
-        "name": "Ultraprisma",
-        "set_code": "UPR",
-        "sigla": "UPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b8/SetSymbolUltra_Prism.png/40px-SetSymbolUltra_Prism.png",
-        "img_path": "imagens/pokemon/SM/UPR.png"
-      },
-      {
-        "name": "Luz Proibida",
-        "set_code": "FLI",
-        "sigla": "FLI",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8a/SetSymbolForbidden_Light.png/40px-SetSymbolForbidden_Light.png",
-        "img_path": "imagens/pokemon/SM/FLI.png"
-      },
-      {
-        "name": "Tempestade Celestial",
-        "set_code": "CES",
-        "sigla": "CES",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4a/SetSymbolCelestial_Storm.png/40px-SetSymbolCelestial_Storm.png",
-        "img_path": "imagens/pokemon/SM/CES.png"
-      },
-      {
-        "name": "Dragões Soberanos",
-        "set_code": "DRM",
-        "sigla": "DRM",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/43/SetSymbolDragon_Majesty.png/40px-SetSymbolDragon_Majesty.png",
-        "img_path": "imagens/pokemon/SM/DRM.png"
-      },
-      {
-        "name": "Trovões Perdidos",
-        "set_code": "LOT",
-        "sigla": "LOT",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c8/SetSymbolLost_Thunder.png/40px-SetSymbolLost_Thunder.png",
-        "img_path": "imagens/pokemon/SM/LOT.png"
-      },
-      {
-        "name": "União de Aliados",
-        "set_code": "TEU",
-        "sigla": "TEU",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/27/SetSymbolTeam_Up.png/40px-SetSymbolTeam_Up.png",
-        "img_path": "imagens/pokemon/SM/TEU.png"
-      },
-      {
-        "name": "Detective Pikachu",
-        "set_code": "DET",
-        "sigla": "DET",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6a/SetSymbolDetective_Pikachu.png/40px-SetSymbolDetective_Pikachu.png",
-        "img_path": "imagens/pokemon/SM/DET.png"
-      },
-      {
-        "name": "Elos Inquebráveis",
-        "set_code": "UNB",
-        "sigla": "UNB",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/eb/SetSymbolUnbroken_Bonds.png/40px-SetSymbolUnbroken_Bonds.png",
-        "img_path": "imagens/pokemon/SM/UNB.png"
-      },
-      {
-        "name": "Sintonia Mental",
-        "set_code": "UNM",
-        "sigla": "UNM",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e5/SetSymbolUnified_Minds.png/40px-SetSymbolUnified_Minds.png",
-        "img_path": "imagens/pokemon/SM/UNM.png"
+        "name": "Eclipse Cósmico",
+        "set_code": "CEC",
+        "sigla": "CEC",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/SetSymbolCosmic_Eclipse.png/40px-SetSymbolCosmic_Eclipse.png",
+        "img_path": "imagens/pokemon/SM/CEC.png"
       },
       {
         "name": "Destinos Ocultos",
@@ -1027,111 +928,118 @@
         "img_path": "imagens/pokemon/SM/HIF.png"
       },
       {
-        "name": "Eclipse Cósmico",
-        "set_code": "CEC",
-        "sigla": "CEC",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/SetSymbolCosmic_Eclipse.png/40px-SetSymbolCosmic_Eclipse.png",
-        "img_path": "imagens/pokemon/SM/CEC.png"
+        "name": "Sintonia Mental",
+        "set_code": "UNM",
+        "sigla": "UNM",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e5/SetSymbolUnified_Minds.png/40px-SetSymbolUnified_Minds.png",
+        "img_path": "imagens/pokemon/SM/UNM.png"
+      },
+      {
+        "name": "Elos Inquebráveis",
+        "set_code": "UNB",
+        "sigla": "UNB",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/eb/SetSymbolUnbroken_Bonds.png/40px-SetSymbolUnbroken_Bonds.png",
+        "img_path": "imagens/pokemon/SM/UNB.png"
+      },
+      {
+        "name": "Detective Pikachu",
+        "set_code": "DET",
+        "sigla": "DET",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6a/SetSymbolDetective_Pikachu.png/40px-SetSymbolDetective_Pikachu.png",
+        "img_path": "imagens/pokemon/SM/DET.png"
+      },
+      {
+        "name": "União de Aliados",
+        "set_code": "TEU",
+        "sigla": "TEU",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/27/SetSymbolTeam_Up.png/40px-SetSymbolTeam_Up.png",
+        "img_path": "imagens/pokemon/SM/TEU.png"
+      },
+      {
+        "name": "Trovões Perdidos",
+        "set_code": "LOT",
+        "sigla": "LOT",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c8/SetSymbolLost_Thunder.png/40px-SetSymbolLost_Thunder.png",
+        "img_path": "imagens/pokemon/SM/LOT.png"
+      },
+      {
+        "name": "Dragões Soberanos",
+        "set_code": "DRM",
+        "sigla": "DRM",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/43/SetSymbolDragon_Majesty.png/40px-SetSymbolDragon_Majesty.png",
+        "img_path": "imagens/pokemon/SM/DRM.png"
+      },
+      {
+        "name": "Tempestade Celestial",
+        "set_code": "CES",
+        "sigla": "CES",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4a/SetSymbolCelestial_Storm.png/40px-SetSymbolCelestial_Storm.png",
+        "img_path": "imagens/pokemon/SM/CES.png"
+      },
+      {
+        "name": "Luz Proibida",
+        "set_code": "FLI",
+        "sigla": "FLI",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8a/SetSymbolForbidden_Light.png/40px-SetSymbolForbidden_Light.png",
+        "img_path": "imagens/pokemon/SM/FLI.png"
+      },
+      {
+        "name": "Ultraprisma",
+        "set_code": "UPR",
+        "sigla": "UPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b8/SetSymbolUltra_Prism.png/40px-SetSymbolUltra_Prism.png",
+        "img_path": "imagens/pokemon/SM/UPR.png"
+      },
+      {
+        "name": "Invasão Carmim",
+        "set_code": "CIN",
+        "sigla": "CIN",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/46/SetSymbolCrimson_Invasion.png/40px-SetSymbolCrimson_Invasion.png",
+        "img_path": "imagens/pokemon/SM/CIN.png"
+      },
+      {
+        "name": "Lendas Luminescentes",
+        "set_code": "SLG",
+        "sigla": "SLG",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/54/SetSymbolShining_Legends.png/40px-SetSymbolShining_Legends.png",
+        "img_path": "imagens/pokemon/SM/SLG.png"
+      },
+      {
+        "name": "Sombras Ardentes",
+        "set_code": "BUS",
+        "sigla": "BUS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/SetSymbolBurning_Shadows.png/40px-SetSymbolBurning_Shadows.png",
+        "img_path": "imagens/pokemon/SM/BUS.png"
+      },
+      {
+        "name": "Guardiões Ascendentes",
+        "set_code": "GRI",
+        "sigla": "GRI",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/68/SetSymbolGuardians_Rising.png/40px-SetSymbolGuardians_Rising.png",
+        "img_path": "imagens/pokemon/SM/GRI.png"
+      },
+      {
+        "name": "Sol e Lua",
+        "set_code": "SUM",
+        "sigla": "SUM",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/cb/SetSymbolSun_and_Moon.png/40px-SetSymbolSun_and_Moon.png",
+        "img_path": "imagens/pokemon/SM/SUM.png"
+      },
+      {
+        "name": "Sol e Lua Promos",
+        "set_code": "SMP",
+        "sigla": "SMP",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/SM/SMP.png"
       }
     ],
     "XY": [
       {
-        "name": "XY Promos",
-        "set_code": "XYPR",
-        "sigla": "XYPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/XY/XYPR.png"
-      },
-      {
-        "name": "Conjunto para Iniciantes Kalos",
-        "set_code": "KSS",
-        "sigla": "KSS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/SetSymbolKalos_Starter_Set.png/40px-SetSymbolKalos_Starter_Set.png",
-        "img_path": "imagens/pokemon/XY/KSS.png"
-      },
-      {
-        "name": "XY",
-        "set_code": "XY",
-        "sigla": "XY",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6b/SetSymbolXY.png/40px-SetSymbolXY.png",
-        "img_path": "imagens/pokemon/XY/XY.png"
-      },
-      {
-        "name": "Flash de Fogo",
-        "set_code": "FLF",
-        "sigla": "FLF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolFlashfire.png/40px-SetSymbolFlashfire.png",
-        "img_path": "imagens/pokemon/XY/FLF.png"
-      },
-      {
-        "name": "Punhos Furiosos",
-        "set_code": "FFI",
-        "sigla": "FFI",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/07/SetSymbolFurious_Fists.png/40px-SetSymbolFurious_Fists.png",
-        "img_path": "imagens/pokemon/XY/FFI.png"
-      },
-      {
-        "name": "Força Fantasma",
-        "set_code": "PHF",
-        "sigla": "PHF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/10/SetSymbolPhantom_Forces.png/40px-SetSymbolPhantom_Forces.png",
-        "img_path": "imagens/pokemon/XY/PHF.png"
-      },
-      {
-        "name": "Conflito Primitivo",
-        "set_code": "PRC",
-        "sigla": "PRC",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/SetSymbolPrimal_Clash.png/40px-SetSymbolPrimal_Clash.png",
-        "img_path": "imagens/pokemon/XY/PRC.png"
-      },
-      {
-        "name": "Crise Dupla",
-        "set_code": "DCR",
-        "sigla": "DCR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/06/SetSymbolDouble_Crisis.png/40px-SetSymbolDouble_Crisis.png",
-        "img_path": "imagens/pokemon/XY/DCR.png"
-      },
-      {
-        "name": "Céus Estrondosos",
-        "set_code": "ROS",
-        "sigla": "ROS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b1/SetSymbolRoaring_Skies.png/40px-SetSymbolRoaring_Skies.png",
-        "img_path": "imagens/pokemon/XY/ROS.png"
-      },
-      {
-        "name": "Origens Ancestrais",
-        "set_code": "AOR",
-        "sigla": "AOR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4e/SetSymbolAncient_Origins.png/40px-SetSymbolAncient_Origins.png",
-        "img_path": "imagens/pokemon/XY/AOR.png"
-      },
-      {
-        "name": "Turbo Revolução",
-        "set_code": "BKT",
-        "sigla": "BKT",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0f/SetSymbolBREAKthrough.png/40px-SetSymbolBREAKthrough.png",
-        "img_path": "imagens/pokemon/XY/BKT.png"
-      },
-      {
-        "name": "Turbo Colisão",
-        "set_code": "BKP",
-        "sigla": "BKP",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/d/d4/SetSymbolBREAKpoint.png/40px-SetSymbolBREAKpoint.png",
-        "img_path": "imagens/pokemon/XY/BKP.png"
-      },
-      {
-        "name": "Gerações",
-        "set_code": "GEN",
-        "sigla": "GEN",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/54/SetSymbolGenerations.png/40px-SetSymbolGenerations.png",
-        "img_path": "imagens/pokemon/XY/GEN.png"
-      },
-      {
-        "name": "Fusão de Destinos",
-        "set_code": "FCO",
-        "sigla": "FCO",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/SetSymbolFates_Collide.png/40px-SetSymbolFates_Collide.png",
-        "img_path": "imagens/pokemon/XY/FCO.png"
+        "name": "Evoluções",
+        "set_code": "EVO",
+        "sigla": "EVO",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/SetSymbolEvolutions.png/40px-SetSymbolEvolutions.png",
+        "img_path": "imagens/pokemon/XY/EVO.png"
       },
       {
         "name": "Cerco de Vapor",
@@ -1141,90 +1049,111 @@
         "img_path": "imagens/pokemon/XY/STS.png"
       },
       {
-        "name": "Evoluções",
-        "set_code": "EVO",
-        "sigla": "EVO",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/SetSymbolEvolutions.png/40px-SetSymbolEvolutions.png",
-        "img_path": "imagens/pokemon/XY/EVO.png"
+        "name": "Fusão de Destinos",
+        "set_code": "FCO",
+        "sigla": "FCO",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/SetSymbolFates_Collide.png/40px-SetSymbolFates_Collide.png",
+        "img_path": "imagens/pokemon/XY/FCO.png"
+      },
+      {
+        "name": "Gerações",
+        "set_code": "GEN",
+        "sigla": "GEN",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/54/SetSymbolGenerations.png/40px-SetSymbolGenerations.png",
+        "img_path": "imagens/pokemon/XY/GEN.png"
+      },
+      {
+        "name": "Turbo Colisão",
+        "set_code": "BKP",
+        "sigla": "BKP",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/d/d4/SetSymbolBREAKpoint.png/40px-SetSymbolBREAKpoint.png",
+        "img_path": "imagens/pokemon/XY/BKP.png"
+      },
+      {
+        "name": "Turbo Revolução",
+        "set_code": "BKT",
+        "sigla": "BKT",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0f/SetSymbolBREAKthrough.png/40px-SetSymbolBREAKthrough.png",
+        "img_path": "imagens/pokemon/XY/BKT.png"
+      },
+      {
+        "name": "Origens Ancestrais",
+        "set_code": "AOR",
+        "sigla": "AOR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4e/SetSymbolAncient_Origins.png/40px-SetSymbolAncient_Origins.png",
+        "img_path": "imagens/pokemon/XY/AOR.png"
+      },
+      {
+        "name": "Céus Estrondosos",
+        "set_code": "ROS",
+        "sigla": "ROS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b1/SetSymbolRoaring_Skies.png/40px-SetSymbolRoaring_Skies.png",
+        "img_path": "imagens/pokemon/XY/ROS.png"
+      },
+      {
+        "name": "Crise Dupla",
+        "set_code": "DCR",
+        "sigla": "DCR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/06/SetSymbolDouble_Crisis.png/40px-SetSymbolDouble_Crisis.png",
+        "img_path": "imagens/pokemon/XY/DCR.png"
+      },
+      {
+        "name": "Conflito Primitivo",
+        "set_code": "PRC",
+        "sigla": "PRC",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/SetSymbolPrimal_Clash.png/40px-SetSymbolPrimal_Clash.png",
+        "img_path": "imagens/pokemon/XY/PRC.png"
+      },
+      {
+        "name": "Força Fantasma",
+        "set_code": "PHF",
+        "sigla": "PHF",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/10/SetSymbolPhantom_Forces.png/40px-SetSymbolPhantom_Forces.png",
+        "img_path": "imagens/pokemon/XY/PHF.png"
+      },
+      {
+        "name": "Punhos Furiosos",
+        "set_code": "FFI",
+        "sigla": "FFI",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/07/SetSymbolFurious_Fists.png/40px-SetSymbolFurious_Fists.png",
+        "img_path": "imagens/pokemon/XY/FFI.png"
+      },
+      {
+        "name": "Flash de Fogo",
+        "set_code": "FLF",
+        "sigla": "FLF",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolFlashfire.png/40px-SetSymbolFlashfire.png",
+        "img_path": "imagens/pokemon/XY/FLF.png"
+      },
+      {
+        "name": "XY",
+        "set_code": "XY",
+        "sigla": "XY",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6b/SetSymbolXY.png/40px-SetSymbolXY.png",
+        "img_path": "imagens/pokemon/XY/XY.png"
+      },
+      {
+        "name": "Conjunto para Iniciantes Kalos",
+        "set_code": "KSS",
+        "sigla": "KSS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/SetSymbolKalos_Starter_Set.png/40px-SetSymbolKalos_Starter_Set.png",
+        "img_path": "imagens/pokemon/XY/KSS.png"
+      },
+      {
+        "name": "XY Promos",
+        "set_code": "XYPR",
+        "sigla": "XYPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/XY/XYPR.png"
       }
     ],
     "BW": [
       {
-        "name": "Black & White Promos",
-        "set_code": "BWPR",
-        "sigla": "BWPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/BW/BWPR.png"
-      },
-      {
-        "name": "Black & White",
-        "set_code": "BLW",
-        "sigla": "BLW",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/64/SetSymbolBlack_and_White.png/40px-SetSymbolBlack_and_White.png",
-        "img_path": "imagens/pokemon/BW/BLW.png"
-      },
-      {
-        "name": "Poderes Emergentes",
-        "set_code": "EPO",
-        "sigla": "EPO",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/43/SetSymbolEmerging_Powers.png/40px-SetSymbolEmerging_Powers.png",
-        "img_path": "imagens/pokemon/BW/EPO.png"
-      },
-      {
-        "name": "Vitórias Nobres",
-        "set_code": "NVI",
-        "sigla": "NVI",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b3/SetSymbolNoble_Victories.png/40px-SetSymbolNoble_Victories.png",
-        "img_path": "imagens/pokemon/BW/NVI.png"
-      },
-      {
-        "name": "Próximos Destinos",
-        "set_code": "NXD",
-        "sigla": "NXD",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/63/SetSymbolNext_Destinies.png/40px-SetSymbolNext_Destinies.png",
-        "img_path": "imagens/pokemon/BW/NXD.png"
-      },
-      {
-        "name": "Exploradores da Escuridão",
-        "set_code": "DEX",
-        "sigla": "DEX",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/25/SetSymbolDark_Explorers.png/40px-SetSymbolDark_Explorers.png",
-        "img_path": "imagens/pokemon/BW/DEX.png"
-      },
-      {
-        "name": "Dragões Enaltecidos",
-        "set_code": "DRX",
-        "sigla": "DRX",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/af/SetSymbolDragons_Exalted.png/40px-SetSymbolDragons_Exalted.png",
-        "img_path": "imagens/pokemon/BW/DRX.png"
-      },
-      {
-        "name": "Cofre do Dragão",
-        "set_code": "DRV",
-        "sigla": "DRV",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/09/SetSymbolDragon_Vault.png/40px-SetSymbolDragon_Vault.png",
-        "img_path": "imagens/pokemon/BW/DRV.png"
-      },
-      {
-        "name": "Fronteiras Cruzadas",
-        "set_code": "BCR",
-        "sigla": "BCR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/a4/SetSymbolBoundaries_Crossed.png/40px-SetSymbolBoundaries_Crossed.png",
-        "img_path": "imagens/pokemon/BW/BCR.png"
-      },
-      {
-        "name": "Tempestade de Plasma",
-        "set_code": "PLS",
-        "sigla": "PLS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/93/SetSymbolPlasma_Storm.png/40px-SetSymbolPlasma_Storm.png",
-        "img_path": "imagens/pokemon/BW/PLS.png"
-      },
-      {
-        "name": "Congelamento de Plasma",
-        "set_code": "PLF",
-        "sigla": "PLF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/49/SetSymbolPlasma_Freeze.png/40px-SetSymbolPlasma_Freeze.png",
-        "img_path": "imagens/pokemon/BW/PLF.png"
+        "name": "Tesouros Lendários",
+        "set_code": "LTR",
+        "sigla": "LTR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3c/SetSymbolLegendary_Treasures.png/40px-SetSymbolLegendary_Treasures.png",
+        "img_path": "imagens/pokemon/BW/LTR.png"
       },
       {
         "name": "Explosão de Plasma",
@@ -1234,41 +1163,90 @@
         "img_path": "imagens/pokemon/BW/PLB.png"
       },
       {
-        "name": "Tesouros Lendários",
-        "set_code": "LTR",
-        "sigla": "LTR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3c/SetSymbolLegendary_Treasures.png/40px-SetSymbolLegendary_Treasures.png",
-        "img_path": "imagens/pokemon/BW/LTR.png"
+        "name": "Congelamento de Plasma",
+        "set_code": "PLF",
+        "sigla": "PLF",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/49/SetSymbolPlasma_Freeze.png/40px-SetSymbolPlasma_Freeze.png",
+        "img_path": "imagens/pokemon/BW/PLF.png"
+      },
+      {
+        "name": "Tempestade de Plasma",
+        "set_code": "PLS",
+        "sigla": "PLS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/93/SetSymbolPlasma_Storm.png/40px-SetSymbolPlasma_Storm.png",
+        "img_path": "imagens/pokemon/BW/PLS.png"
+      },
+      {
+        "name": "Fronteiras Cruzadas",
+        "set_code": "BCR",
+        "sigla": "BCR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/a4/SetSymbolBoundaries_Crossed.png/40px-SetSymbolBoundaries_Crossed.png",
+        "img_path": "imagens/pokemon/BW/BCR.png"
+      },
+      {
+        "name": "Cofre do Dragão",
+        "set_code": "DRV",
+        "sigla": "DRV",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/09/SetSymbolDragon_Vault.png/40px-SetSymbolDragon_Vault.png",
+        "img_path": "imagens/pokemon/BW/DRV.png"
+      },
+      {
+        "name": "Dragões Enaltecidos",
+        "set_code": "DRX",
+        "sigla": "DRX",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/af/SetSymbolDragons_Exalted.png/40px-SetSymbolDragons_Exalted.png",
+        "img_path": "imagens/pokemon/BW/DRX.png"
+      },
+      {
+        "name": "Exploradores da Escuridão",
+        "set_code": "DEX",
+        "sigla": "DEX",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/25/SetSymbolDark_Explorers.png/40px-SetSymbolDark_Explorers.png",
+        "img_path": "imagens/pokemon/BW/DEX.png"
+      },
+      {
+        "name": "Próximos Destinos",
+        "set_code": "NXD",
+        "sigla": "NXD",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/63/SetSymbolNext_Destinies.png/40px-SetSymbolNext_Destinies.png",
+        "img_path": "imagens/pokemon/BW/NXD.png"
+      },
+      {
+        "name": "Vitórias Nobres",
+        "set_code": "NVI",
+        "sigla": "NVI",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b3/SetSymbolNoble_Victories.png/40px-SetSymbolNoble_Victories.png",
+        "img_path": "imagens/pokemon/BW/NVI.png"
+      },
+      {
+        "name": "Poderes Emergentes",
+        "set_code": "EPO",
+        "sigla": "EPO",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/43/SetSymbolEmerging_Powers.png/40px-SetSymbolEmerging_Powers.png",
+        "img_path": "imagens/pokemon/BW/EPO.png"
+      },
+      {
+        "name": "Black & White",
+        "set_code": "BLW",
+        "sigla": "BLW",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/64/SetSymbolBlack_and_White.png/40px-SetSymbolBlack_and_White.png",
+        "img_path": "imagens/pokemon/BW/BLW.png"
+      },
+      {
+        "name": "Black & White Promos",
+        "set_code": "BWPR",
+        "sigla": "BWPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/BW/BWPR.png"
       }
     ],
     "HS": [
       {
-        "name": "HeartGold & SoulSilver Promos",
-        "set_code": "HSPR",
-        "sigla": "HSPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/HS/HSPR.png"
-      },
-      {
-        "name": "HeartGold & SoulSilver",
-        "set_code": "HS",
-        "sigla": "HS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/30/SetSymbolHeartGold_and_SoulSilver.png/40px-SetSymbolHeartGold_and_SoulSilver.png",
-        "img_path": "imagens/pokemon/HS/HS.png"
-      },
-      {
-        "name": "Revelado",
-        "set_code": "UL",
-        "sigla": "UL",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/42/SetSymbolUnleashed.png/40px-SetSymbolUnleashed.png",
-        "img_path": "imagens/pokemon/HS/UL.png"
-      },
-      {
-        "name": "Destemido",
-        "set_code": "UD",
-        "sigla": "UD",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/73/SetSymbolUndaunted.png/40px-SetSymbolUndaunted.png",
-        "img_path": "imagens/pokemon/HS/UD.png"
+        "name": "Chamado das Lendas",
+        "set_code": "CL",
+        "sigla": "CL",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolCall_of_Legends.png/40px-SetSymbolCall_of_Legends.png",
+        "img_path": "imagens/pokemon/HS/CL.png"
       },
       {
         "name": "Triunfante",
@@ -1278,27 +1256,41 @@
         "img_path": "imagens/pokemon/HS/TM.png"
       },
       {
-        "name": "Chamado das Lendas",
-        "set_code": "CL",
-        "sigla": "CL",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolCall_of_Legends.png/40px-SetSymbolCall_of_Legends.png",
-        "img_path": "imagens/pokemon/HS/CL.png"
+        "name": "Destemido",
+        "set_code": "UD",
+        "sigla": "UD",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/73/SetSymbolUndaunted.png/40px-SetSymbolUndaunted.png",
+        "img_path": "imagens/pokemon/HS/UD.png"
+      },
+      {
+        "name": "Revelado",
+        "set_code": "UL",
+        "sigla": "UL",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/42/SetSymbolUnleashed.png/40px-SetSymbolUnleashed.png",
+        "img_path": "imagens/pokemon/HS/UL.png"
+      },
+      {
+        "name": "HeartGold & SoulSilver",
+        "set_code": "HS",
+        "sigla": "HS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/30/SetSymbolHeartGold_and_SoulSilver.png/40px-SetSymbolHeartGold_and_SoulSilver.png",
+        "img_path": "imagens/pokemon/HS/HS.png"
+      },
+      {
+        "name": "HeartGold & SoulSilver Promos",
+        "set_code": "HSPR",
+        "sigla": "HSPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/HS/HSPR.png"
       }
     ],
     "PL": [
       {
-        "name": "Platinum",
-        "set_code": "PL",
-        "sigla": "PL",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7c/SetSymbolPlatinum.png/40px-SetSymbolPlatinum.png",
-        "img_path": "imagens/pokemon/PL/PL.png"
-      },
-      {
-        "name": "Rising Rivals",
-        "set_code": "RR",
-        "sigla": "RR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/64/SetSymbolRising_Rivals.png/40px-SetSymbolRising_Rivals.png",
-        "img_path": "imagens/pokemon/PL/RR.png"
+        "name": "Arceus",
+        "set_code": "AR",
+        "sigla": "AR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/96/SetSymbolArceus.png/40px-SetSymbolArceus.png",
+        "img_path": "imagens/pokemon/PL/AR.png"
       },
       {
         "name": "Supreme Victors",
@@ -1308,48 +1300,27 @@
         "img_path": "imagens/pokemon/PL/SV.png"
       },
       {
-        "name": "Arceus",
-        "set_code": "AR",
-        "sigla": "AR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/96/SetSymbolArceus.png/40px-SetSymbolArceus.png",
-        "img_path": "imagens/pokemon/PL/AR.png"
+        "name": "Rising Rivals",
+        "set_code": "RR",
+        "sigla": "RR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/64/SetSymbolRising_Rivals.png/40px-SetSymbolRising_Rivals.png",
+        "img_path": "imagens/pokemon/PL/RR.png"
+      },
+      {
+        "name": "Platinum",
+        "set_code": "PL",
+        "sigla": "PL",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7c/SetSymbolPlatinum.png/40px-SetSymbolPlatinum.png",
+        "img_path": "imagens/pokemon/PL/PL.png"
       }
     ],
     "DP": [
       {
-        "name": "Diamante & Pérola Promos",
-        "set_code": "DPPR",
-        "sigla": "DPPR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/DP/DPPR.png"
-      },
-      {
-        "name": "Diamante & Pérola",
-        "set_code": "DP",
-        "sigla": "DP",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolDiamond_and_Pearl.png/40px-SetSymbolDiamond_and_Pearl.png",
-        "img_path": "imagens/pokemon/DP/DP.png"
-      },
-      {
-        "name": "Maravilhas Secretas",
-        "set_code": "SW",
-        "sigla": "SW",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolSecret_Wonders.png/40px-SetSymbolSecret_Wonders.png",
-        "img_path": "imagens/pokemon/DP/SW.png"
-      },
-      {
-        "name": "Great Encounters",
-        "set_code": "GE",
-        "sigla": "GE",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e8/SetSymbolGreat_Encounters.png/40px-SetSymbolGreat_Encounters.png",
-        "img_path": "imagens/pokemon/DP/GE.png"
-      },
-      {
-        "name": "Majestic Dawn",
-        "set_code": "MD",
-        "sigla": "MD",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/SetSymbolMajestic_Dawn.png/40px-SetSymbolMajestic_Dawn.png",
-        "img_path": "imagens/pokemon/DP/MD.png"
+        "name": "Stormfront",
+        "set_code": "SF",
+        "sigla": "SF",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/72/SetSymbolStormfront.png/40px-SetSymbolStormfront.png",
+        "img_path": "imagens/pokemon/DP/SF.png"
       },
       {
         "name": "Legends Awakened",
@@ -1359,111 +1330,48 @@
         "img_path": "imagens/pokemon/DP/LA.png"
       },
       {
-        "name": "Stormfront",
-        "set_code": "SF",
-        "sigla": "SF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/72/SetSymbolStormfront.png/40px-SetSymbolStormfront.png",
-        "img_path": "imagens/pokemon/DP/SF.png"
+        "name": "Majestic Dawn",
+        "set_code": "MD",
+        "sigla": "MD",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/SetSymbolMajestic_Dawn.png/40px-SetSymbolMajestic_Dawn.png",
+        "img_path": "imagens/pokemon/DP/MD.png"
+      },
+      {
+        "name": "Great Encounters",
+        "set_code": "GE",
+        "sigla": "GE",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e8/SetSymbolGreat_Encounters.png/40px-SetSymbolGreat_Encounters.png",
+        "img_path": "imagens/pokemon/DP/GE.png"
+      },
+      {
+        "name": "Maravilhas Secretas",
+        "set_code": "SW",
+        "sigla": "SW",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolSecret_Wonders.png/40px-SetSymbolSecret_Wonders.png",
+        "img_path": "imagens/pokemon/DP/SW.png"
+      },
+      {
+        "name": "Diamante & Pérola",
+        "set_code": "DP",
+        "sigla": "DP",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolDiamond_and_Pearl.png/40px-SetSymbolDiamond_and_Pearl.png",
+        "img_path": "imagens/pokemon/DP/DP.png"
+      },
+      {
+        "name": "Diamante & Pérola Promos",
+        "set_code": "DPPR",
+        "sigla": "DPPR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/DP/DPPR.png"
       }
     ],
     "EX": [
       {
-        "name": "Rubi & Safira",
-        "set_code": "RS",
-        "sigla": "RS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/SetSymbolRuby_and_Sapphire.png/40px-SetSymbolRuby_and_Sapphire.png",
-        "img_path": "imagens/pokemon/EX/RS.png"
-      },
-      {
-        "name": "Sandstorm",
-        "set_code": "SS",
-        "sigla": "SS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6a/SetSymbolSandstorm.png/40px-SetSymbolSandstorm.png",
-        "img_path": "imagens/pokemon/EX/SS.png"
-      },
-      {
-        "name": "Dragon",
-        "set_code": "DR",
-        "sigla": "DR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/08/SetSymbolDragon.png/40px-SetSymbolDragon.png",
-        "img_path": "imagens/pokemon/EX/DR.png"
-      },
-      {
-        "name": "Team Magma vs Team Aqua",
-        "set_code": "MA",
-        "sigla": "MA",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b9/SetSymbolTeam_Magma_vs_Team_Aqua.png/40px-SetSymbolTeam_Magma_vs_Team_Aqua.png",
-        "img_path": "imagens/pokemon/EX/MA.png"
-      },
-      {
-        "name": "Hidden Legends",
-        "set_code": "HL",
-        "sigla": "HL",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/66/SetSymbolHidden_Legends.png/40px-SetSymbolHidden_Legends.png",
-        "img_path": "imagens/pokemon/EX/HL.png"
-      },
-      {
-        "name": "FireRed & LeafGreen",
-        "set_code": "FL",
-        "sigla": "FL",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f6/SetSymbolFireRed_and_LeafGreen.png/40px-SetSymbolFireRed_and_LeafGreen.png",
-        "img_path": "imagens/pokemon/EX/FL.png"
-      },
-      {
-        "name": "Team Rocket Returns",
-        "set_code": "TRR",
-        "sigla": "TRR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/a0/SetSymbolTeam_Rocket_Returns.png/40px-SetSymbolTeam_Rocket_Returns.png",
-        "img_path": "imagens/pokemon/EX/TRR.png"
-      },
-      {
-        "name": "Deoxys",
-        "set_code": "DX",
-        "sigla": "DX",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/73/SetSymbolDeoxys.png/40px-SetSymbolDeoxys.png",
-        "img_path": "imagens/pokemon/EX/DX.png"
-      },
-      {
-        "name": "Emerald",
-        "set_code": "EM",
-        "sigla": "EM",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolEmerald.png/40px-SetSymbolEmerald.png",
-        "img_path": "imagens/pokemon/EX/EM.png"
-      },
-      {
-        "name": "Unseen Forces",
-        "set_code": "UF",
-        "sigla": "UF",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/63/SetSymbolUnseen_Forces.png/40px-SetSymbolUnseen_Forces.png",
-        "img_path": "imagens/pokemon/EX/UF.png"
-      },
-      {
-        "name": "Delta Species",
-        "set_code": "DS",
-        "sigla": "DS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/14/SetSymbolDelta_Species.png/40px-SetSymbolDelta_Species.png",
-        "img_path": "imagens/pokemon/EX/DS.png"
-      },
-      {
-        "name": "Legend Maker",
-        "set_code": "LM",
-        "sigla": "LM",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/SetSymbolLegend_Maker.png/40px-SetSymbolLegend_Maker.png",
-        "img_path": "imagens/pokemon/EX/LM.png"
-      },
-      {
-        "name": "Holon Phantoms",
-        "set_code": "EHP",
-        "sigla": "EHP",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/ba/SetSymbolHolon_Phantoms.png/40px-SetSymbolHolon_Phantoms.png",
-        "img_path": "imagens/pokemon/EX/EHP.png"
-      },
-      {
-        "name": "Crystal Guardians",
-        "set_code": "CG",
-        "sigla": "CG",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e9/SetSymbolCrystal_Guardians.png/40px-SetSymbolCrystal_Guardians.png",
-        "img_path": "imagens/pokemon/EX/CG.png"
+        "name": "Power Keepers",
+        "set_code": "PK",
+        "sigla": "PK",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolPower_Keepers.png/40px-SetSymbolPower_Keepers.png",
+        "img_path": "imagens/pokemon/EX/PK.png"
       },
       {
         "name": "Dragon Frontiers",
@@ -1473,104 +1381,111 @@
         "img_path": "imagens/pokemon/EX/DF.png"
       },
       {
-        "name": "Power Keepers",
-        "set_code": "PK",
-        "sigla": "PK",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolPower_Keepers.png/40px-SetSymbolPower_Keepers.png",
-        "img_path": "imagens/pokemon/EX/PK.png"
+        "name": "Crystal Guardians",
+        "set_code": "CG",
+        "sigla": "CG",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e9/SetSymbolCrystal_Guardians.png/40px-SetSymbolCrystal_Guardians.png",
+        "img_path": "imagens/pokemon/EX/CG.png"
+      },
+      {
+        "name": "Holon Phantoms",
+        "set_code": "EHP",
+        "sigla": "EHP",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/ba/SetSymbolHolon_Phantoms.png/40px-SetSymbolHolon_Phantoms.png",
+        "img_path": "imagens/pokemon/EX/EHP.png"
+      },
+      {
+        "name": "Legend Maker",
+        "set_code": "LM",
+        "sigla": "LM",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/SetSymbolLegend_Maker.png/40px-SetSymbolLegend_Maker.png",
+        "img_path": "imagens/pokemon/EX/LM.png"
+      },
+      {
+        "name": "Delta Species",
+        "set_code": "DS",
+        "sigla": "DS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/14/SetSymbolDelta_Species.png/40px-SetSymbolDelta_Species.png",
+        "img_path": "imagens/pokemon/EX/DS.png"
+      },
+      {
+        "name": "Unseen Forces",
+        "set_code": "UF",
+        "sigla": "UF",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/63/SetSymbolUnseen_Forces.png/40px-SetSymbolUnseen_Forces.png",
+        "img_path": "imagens/pokemon/EX/UF.png"
+      },
+      {
+        "name": "Emerald",
+        "set_code": "EM",
+        "sigla": "EM",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolEmerald.png/40px-SetSymbolEmerald.png",
+        "img_path": "imagens/pokemon/EX/EM.png"
+      },
+      {
+        "name": "Deoxys",
+        "set_code": "DX",
+        "sigla": "DX",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/73/SetSymbolDeoxys.png/40px-SetSymbolDeoxys.png",
+        "img_path": "imagens/pokemon/EX/DX.png"
+      },
+      {
+        "name": "Team Rocket Returns",
+        "set_code": "TRR",
+        "sigla": "TRR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/a0/SetSymbolTeam_Rocket_Returns.png/40px-SetSymbolTeam_Rocket_Returns.png",
+        "img_path": "imagens/pokemon/EX/TRR.png"
+      },
+      {
+        "name": "FireRed & LeafGreen",
+        "set_code": "FL",
+        "sigla": "FL",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f6/SetSymbolFireRed_and_LeafGreen.png/40px-SetSymbolFireRed_and_LeafGreen.png",
+        "img_path": "imagens/pokemon/EX/FL.png"
+      },
+      {
+        "name": "Hidden Legends",
+        "set_code": "HL",
+        "sigla": "HL",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/66/SetSymbolHidden_Legends.png/40px-SetSymbolHidden_Legends.png",
+        "img_path": "imagens/pokemon/EX/HL.png"
+      },
+      {
+        "name": "Team Magma vs Team Aqua",
+        "set_code": "MA",
+        "sigla": "MA",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b9/SetSymbolTeam_Magma_vs_Team_Aqua.png/40px-SetSymbolTeam_Magma_vs_Team_Aqua.png",
+        "img_path": "imagens/pokemon/EX/MA.png"
+      },
+      {
+        "name": "Dragon",
+        "set_code": "DR",
+        "sigla": "DR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/08/SetSymbolDragon.png/40px-SetSymbolDragon.png",
+        "img_path": "imagens/pokemon/EX/DR.png"
+      },
+      {
+        "name": "Sandstorm",
+        "set_code": "SS",
+        "sigla": "SS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6a/SetSymbolSandstorm.png/40px-SetSymbolSandstorm.png",
+        "img_path": "imagens/pokemon/EX/SS.png"
+      },
+      {
+        "name": "Rubi & Safira",
+        "set_code": "RS",
+        "sigla": "RS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/SetSymbolRuby_and_Sapphire.png/40px-SetSymbolRuby_and_Sapphire.png",
+        "img_path": "imagens/pokemon/EX/RS.png"
       }
     ],
     "WotC": [
       {
-        "name": "Base Set",
-        "set_code": "BS",
-        "sigla": "BS",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/1st_edition_English.png/120px-1st_edition_English.png",
-        "img_path": "imagens/pokemon/WotC/BS.png"
-      },
-      {
-        "name": "Selva",
-        "set_code": "JU",
-        "sigla": "JU",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/40px-SetSymbolJungle.png",
-        "img_path": "imagens/pokemon/WotC/JU.png"
-      },
-      {
-        "name": "Fóssil",
-        "set_code": "FO",
-        "sigla": "FO",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e6/SetSymbolFossil.png/40px-SetSymbolFossil.png",
-        "img_path": "imagens/pokemon/WotC/FO.png"
-      },
-      {
-        "name": "Base Set 2",
-        "set_code": "B2",
-        "sigla": "B2",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/36/SetSymbolBase_Set_2.png/40px-SetSymbolBase_Set_2.png",
-        "img_path": "imagens/pokemon/WotC/B2.png"
-      },
-      {
-        "name": "Team Rocket",
-        "set_code": "TR",
-        "sigla": "TR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/SetSymbolTeam_Rocket.png/40px-SetSymbolTeam_Rocket.png",
-        "img_path": "imagens/pokemon/WotC/TR.png"
-      },
-      {
-        "name": "Gym Heroes",
-        "set_code": "G1",
-        "sigla": "G1",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8f/SetSymbolGym_Heroes.png/40px-SetSymbolGym_Heroes.png",
-        "img_path": "imagens/pokemon/WotC/G1.png"
-      },
-      {
-        "name": "Gym Challenge",
-        "set_code": "G2",
-        "sigla": "G2",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c4/SetSymbolGym_Challenge.png/40px-SetSymbolGym_Challenge.png",
-        "img_path": "imagens/pokemon/WotC/G2.png"
-      },
-      {
-        "name": "Neo Genesis",
-        "set_code": "N1",
-        "sigla": "N1",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/75/SetSymbolNeo_Genesis.png/40px-SetSymbolNeo_Genesis.png",
-        "img_path": "imagens/pokemon/WotC/N1.png"
-      },
-      {
-        "name": "Southern Islands",
-        "set_code": "SI",
-        "sigla": "SI",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1e/SetSymbolSouthern_IslandsENG.png/40px-SetSymbolSouthern_IslandsENG.png",
-        "img_path": "imagens/pokemon/WotC/SI.png"
-      },
-      {
-        "name": "Neo Discovery",
-        "set_code": "N2",
-        "sigla": "N2",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f8/SetSymbolNeo_Discovery.png/40px-SetSymbolNeo_Discovery.png",
-        "img_path": "imagens/pokemon/WotC/N2.png"
-      },
-      {
-        "name": "Neo Revelation",
-        "set_code": "N3",
-        "sigla": "N3",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/SetSymbolNeo_Revelation.png/40px-SetSymbolNeo_Revelation.png",
-        "img_path": "imagens/pokemon/WotC/N3.png"
-      },
-      {
-        "name": "Neo Destiny",
-        "set_code": "N4",
-        "sigla": "N4",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/88/SetSymbolNeo_Destiny.png/40px-SetSymbolNeo_Destiny.png",
-        "img_path": "imagens/pokemon/WotC/N4.png"
-      },
-      {
-        "name": "Expedition",
-        "set_code": "EX",
-        "sigla": "EX",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/SetSymbolExpedition.png/40px-SetSymbolExpedition.png",
-        "img_path": "imagens/pokemon/WotC/EX.png"
+        "name": "Skyridge",
+        "set_code": "SKY",
+        "sigla": "SKY",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/56/SetSymbolSkyridge.png/40px-SetSymbolSkyridge.png",
+        "img_path": "imagens/pokemon/WotC/SKY.png"
       },
       {
         "name": "Aquapolis",
@@ -1580,160 +1495,111 @@
         "img_path": "imagens/pokemon/WotC/AQ.png"
       },
       {
-        "name": "Skyridge",
-        "set_code": "SKY",
-        "sigla": "SKY",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/56/SetSymbolSkyridge.png/40px-SetSymbolSkyridge.png",
-        "img_path": "imagens/pokemon/WotC/SKY.png"
+        "name": "Expedition",
+        "set_code": "EX",
+        "sigla": "EX",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/SetSymbolExpedition.png/40px-SetSymbolExpedition.png",
+        "img_path": "imagens/pokemon/WotC/EX.png"
+      },
+      {
+        "name": "Neo Destiny",
+        "set_code": "N4",
+        "sigla": "N4",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/88/SetSymbolNeo_Destiny.png/40px-SetSymbolNeo_Destiny.png",
+        "img_path": "imagens/pokemon/WotC/N4.png"
+      },
+      {
+        "name": "Neo Revelation",
+        "set_code": "N3",
+        "sigla": "N3",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/SetSymbolNeo_Revelation.png/40px-SetSymbolNeo_Revelation.png",
+        "img_path": "imagens/pokemon/WotC/N3.png"
+      },
+      {
+        "name": "Neo Discovery",
+        "set_code": "N2",
+        "sigla": "N2",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f8/SetSymbolNeo_Discovery.png/40px-SetSymbolNeo_Discovery.png",
+        "img_path": "imagens/pokemon/WotC/N2.png"
+      },
+      {
+        "name": "Southern Islands",
+        "set_code": "SI",
+        "sigla": "SI",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1e/SetSymbolSouthern_IslandsENG.png/40px-SetSymbolSouthern_IslandsENG.png",
+        "img_path": "imagens/pokemon/WotC/SI.png"
+      },
+      {
+        "name": "Neo Genesis",
+        "set_code": "N1",
+        "sigla": "N1",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/75/SetSymbolNeo_Genesis.png/40px-SetSymbolNeo_Genesis.png",
+        "img_path": "imagens/pokemon/WotC/N1.png"
+      },
+      {
+        "name": "Gym Challenge",
+        "set_code": "G2",
+        "sigla": "G2",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c4/SetSymbolGym_Challenge.png/40px-SetSymbolGym_Challenge.png",
+        "img_path": "imagens/pokemon/WotC/G2.png"
+      },
+      {
+        "name": "Gym Heroes",
+        "set_code": "G1",
+        "sigla": "G1",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8f/SetSymbolGym_Heroes.png/40px-SetSymbolGym_Heroes.png",
+        "img_path": "imagens/pokemon/WotC/G1.png"
+      },
+      {
+        "name": "Team Rocket",
+        "set_code": "TR",
+        "sigla": "TR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/SetSymbolTeam_Rocket.png/40px-SetSymbolTeam_Rocket.png",
+        "img_path": "imagens/pokemon/WotC/TR.png"
+      },
+      {
+        "name": "Base Set 2",
+        "set_code": "B2",
+        "sigla": "B2",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/36/SetSymbolBase_Set_2.png/40px-SetSymbolBase_Set_2.png",
+        "img_path": "imagens/pokemon/WotC/B2.png"
+      },
+      {
+        "name": "Fóssil",
+        "set_code": "FO",
+        "sigla": "FO",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e6/SetSymbolFossil.png/40px-SetSymbolFossil.png",
+        "img_path": "imagens/pokemon/WotC/FO.png"
+      },
+      {
+        "name": "Selva",
+        "set_code": "JU",
+        "sigla": "JU",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/40px-SetSymbolJungle.png",
+        "img_path": "imagens/pokemon/WotC/JU.png"
+      },
+      {
+        "name": "Base Set",
+        "set_code": "BS",
+        "sigla": "BS",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/1st_edition_English.png/120px-1st_edition_English.png",
+        "img_path": "imagens/pokemon/WotC/BS.png"
       }
     ],
     "Especiais": [
       {
-        "name": "Promos",
-        "set_code": "PR",
-        "sigla": "PR",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
-        "img_path": "imagens/pokemon/Especiais/PR.png"
+        "name": "McDonald's Collection 2024 (EN)",
+        "set_code": "M24",
+        "sigla": "M24",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/71/SetSymbolMcDonalds_Collection_2024.png/40px-SetSymbolMcDonalds_Collection_2024.png",
+        "img_path": "imagens/pokemon/Especiais/M24.png"
       },
       {
-        "name": "Rumble",
-        "set_code": "RU",
-        "sigla": "RU",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/63/SetSymbolPok%C3%A9mon_Rumble.png/40px-SetSymbolPok%C3%A9mon_Rumble.png",
-        "img_path": "imagens/pokemon/Especiais/RU.png"
-      },
-      {
-        "name": "POP Series 1",
-        "set_code": "P1",
-        "sigla": "P1",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/fc/SetSymbolPOP_Series_1.png/40px-SetSymbolPOP_Series_1.png",
-        "img_path": "imagens/pokemon/Especiais/P1.png"
-      },
-      {
-        "name": "POP Series 2",
-        "set_code": "P2",
-        "sigla": "P2",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/49/SetSymbolPOP_Series_2.png/40px-SetSymbolPOP_Series_2.png",
-        "img_path": "imagens/pokemon/Especiais/P2.png"
-      },
-      {
-        "name": "POP Series 3",
-        "set_code": "P3",
-        "sigla": "P3",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/SetSymbolPOP_Series_3.png/40px-SetSymbolPOP_Series_3.png",
-        "img_path": "imagens/pokemon/Especiais/P3.png"
-      },
-      {
-        "name": "POP Series 4",
-        "set_code": "P4",
-        "sigla": "P4",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3c/SetSymbolPOP_Series_4.png/40px-SetSymbolPOP_Series_4.png",
-        "img_path": "imagens/pokemon/Especiais/P4.png"
-      },
-      {
-        "name": "POP Series 5",
-        "set_code": "P5",
-        "sigla": "P5",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9f/SetSymbolPOP_Series_5.png/40px-SetSymbolPOP_Series_5.png",
-        "img_path": "imagens/pokemon/Especiais/P5.png"
-      },
-      {
-        "name": "POP Series 6",
-        "set_code": "P6",
-        "sigla": "P6",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/41/SetSymbolPOP_Series_6.png/40px-SetSymbolPOP_Series_6.png",
-        "img_path": "imagens/pokemon/Especiais/P6.png"
-      },
-      {
-        "name": "POP Series 7",
-        "set_code": "P7",
-        "sigla": "P7",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/SetSymbolPOP_Series_7.png/40px-SetSymbolPOP_Series_7.png",
-        "img_path": "imagens/pokemon/Especiais/P7.png"
-      },
-      {
-        "name": "POP Series 8",
-        "set_code": "P8",
-        "sigla": "P8",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/SetSymbolPOP_Series_8.png/40px-SetSymbolPOP_Series_8.png",
-        "img_path": "imagens/pokemon/Especiais/P8.png"
-      },
-      {
-        "name": "POP Series 9",
-        "set_code": "P9",
-        "sigla": "P9",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/99/SetSymbolPOP_Series_9.png/40px-SetSymbolPOP_Series_9.png",
-        "img_path": "imagens/pokemon/Especiais/P9.png"
-      },
-      {
-        "name": "McDonald's Collection 2011",
-        "set_code": "MCD1",
-        "sigla": "MCD1",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8a/SetSymbolMcDonalds_Collection.png/40px-SetSymbolMcDonalds_Collection.png",
-        "img_path": "imagens/pokemon/Especiais/MCD1.png"
-      },
-      {
-        "name": "McDonald's Collection 2012",
-        "set_code": "MCD2",
-        "sigla": "MCD2",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9b/SetSymbolMcDonalds_Collection_2012.png/40px-SetSymbolMcDonalds_Collection_2012.png",
-        "img_path": "imagens/pokemon/Especiais/MCD2.png"
-      },
-      {
-        "name": "McDonald’s Collection 2013",
-        "set_code": "MCD13",
-        "sigla": "MCD13",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8b/SetSymbolMcDonalds_Collection_2013.png/40px-SetSymbolMcDonalds_Collection_2013.png",
-        "img_path": "imagens/pokemon/Especiais/MCD13.png"
-      },
-      {
-        "name": "McDonald’s Collection 2014",
-        "set_code": "MCD14",
-        "sigla": "MCD14",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/ee/SetSymbolMcDonalds_Collection_2014.png/40px-SetSymbolMcDonalds_Collection_2014.png",
-        "img_path": "imagens/pokemon/Especiais/MCD14.png"
-      },
-      {
-        "name": "McDonald’s Collection 2015",
-        "set_code": "MCD15",
-        "sigla": "MCD15",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6f/SetSymbolMcDonalds_Collection_2015.png/40px-SetSymbolMcDonalds_Collection_2015.png",
-        "img_path": "imagens/pokemon/Especiais/MCD15.png"
-      },
-      {
-        "name": "McDonald’s Collection 2016",
-        "set_code": "MCD16",
-        "sigla": "MCD16",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4a/SetSymbolMcDonalds_Collection_2016.png/40px-SetSymbolMcDonalds_Collection_2016.png",
-        "img_path": "imagens/pokemon/Especiais/MCD16.png"
-      },
-      {
-        "name": "McDonald's Collection 2018 (English)",
-        "set_code": "MC18E",
-        "sigla": "MC18E",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/SetSymbolMcDonalds_Collection_2018.png/40px-SetSymbolMcDonalds_Collection_2018.png",
-        "img_path": "imagens/pokemon/Especiais/MC18E.png"
-      },
-      {
-        "name": "McDonald's Collection 2019",
-        "set_code": "MCD19",
-        "sigla": "MCD19",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c5/SetSymbolMcDonalds_Collection_2019.png/40px-SetSymbolMcDonalds_Collection_2019.png",
-        "img_path": "imagens/pokemon/Especiais/MCD19.png"
-      },
-      {
-        "name": "McDonald's Collection 2021",
-        "set_code": "MC21",
-        "sigla": "MC21",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0c/SetSymbolMcDonalds_Collection_2021.png/40px-SetSymbolMcDonalds_Collection_2021.png",
-        "img_path": "imagens/pokemon/Especiais/MC21.png"
-      },
-      {
-        "name": "McDonald's Collection 2022",
-        "set_code": "MC22",
-        "sigla": "MC22",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/a0/SetSymbolMcDonalds_Collection_2022.png/40px-SetSymbolMcDonalds_Collection_2022.png",
-        "img_path": "imagens/pokemon/Especiais/MC22.png"
+        "name": "Trick or Trade BOOster 2023",
+        "set_code": "TOT23",
+        "sigla": "TOT23",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/00/Trick_or_Trade_2023.png/150px-Trick_or_Trade_2023.png",
+        "img_path": "imagens/pokemon/Especiais/TOT23.png"
       },
       {
         "name": "McDonald's Collection 2023",
@@ -1743,11 +1609,151 @@
         "img_path": "imagens/pokemon/Especiais/M23.png"
       },
       {
-        "name": "McDonald's Collection 2024 (EN)",
-        "set_code": "M24",
-        "sigla": "M24",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/71/SetSymbolMcDonalds_Collection_2024.png/40px-SetSymbolMcDonalds_Collection_2024.png",
-        "img_path": "imagens/pokemon/Especiais/M24.png"
+        "name": "Trick or Trade BOOster 2022",
+        "set_code": "TOT22",
+        "sigla": "TOT22",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/18/Trick_or_Trade.png/150px-Trick_or_Trade.png",
+        "img_path": "imagens/pokemon/Especiais/TOT22.png"
+      },
+      {
+        "name": "McDonald's Collection 2022",
+        "set_code": "MC22",
+        "sigla": "MC22",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/a/a0/SetSymbolMcDonalds_Collection_2022.png/40px-SetSymbolMcDonalds_Collection_2022.png",
+        "img_path": "imagens/pokemon/Especiais/MC22.png"
+      },
+      {
+        "name": "McDonald's Collection 2021",
+        "set_code": "MC21",
+        "sigla": "MC21",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0c/SetSymbolMcDonalds_Collection_2021.png/40px-SetSymbolMcDonalds_Collection_2021.png",
+        "img_path": "imagens/pokemon/Especiais/MC21.png"
+      },
+      {
+        "name": "McDonald's Collection 2019",
+        "set_code": "MCD19",
+        "sigla": "MCD19",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/c5/SetSymbolMcDonalds_Collection_2019.png/40px-SetSymbolMcDonalds_Collection_2019.png",
+        "img_path": "imagens/pokemon/Especiais/MCD19.png"
+      },
+      {
+        "name": "McDonald's Collection 2018 (English)",
+        "set_code": "MC18E",
+        "sigla": "MC18E",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/SetSymbolMcDonalds_Collection_2018.png/40px-SetSymbolMcDonalds_Collection_2018.png",
+        "img_path": "imagens/pokemon/Especiais/MC18E.png"
+      },
+      {
+        "name": "McDonald’s Collection 2016",
+        "set_code": "MCD16",
+        "sigla": "MCD16",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4a/SetSymbolMcDonalds_Collection_2016.png/40px-SetSymbolMcDonalds_Collection_2016.png",
+        "img_path": "imagens/pokemon/Especiais/MCD16.png"
+      },
+      {
+        "name": "McDonald’s Collection 2015",
+        "set_code": "MCD15",
+        "sigla": "MCD15",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6f/SetSymbolMcDonalds_Collection_2015.png/40px-SetSymbolMcDonalds_Collection_2015.png",
+        "img_path": "imagens/pokemon/Especiais/MCD15.png"
+      },
+      {
+        "name": "McDonald’s Collection 2014",
+        "set_code": "MCD14",
+        "sigla": "MCD14",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/ee/SetSymbolMcDonalds_Collection_2014.png/40px-SetSymbolMcDonalds_Collection_2014.png",
+        "img_path": "imagens/pokemon/Especiais/MCD14.png"
+      },
+      {
+        "name": "McDonald’s Collection 2013",
+        "set_code": "MCD13",
+        "sigla": "MCD13",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8b/SetSymbolMcDonalds_Collection_2013.png/40px-SetSymbolMcDonalds_Collection_2013.png",
+        "img_path": "imagens/pokemon/Especiais/MCD13.png"
+      },
+      {
+        "name": "McDonald's Collection 2012",
+        "set_code": "MCD2",
+        "sigla": "MCD2",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9b/SetSymbolMcDonalds_Collection_2012.png/40px-SetSymbolMcDonalds_Collection_2012.png",
+        "img_path": "imagens/pokemon/Especiais/MCD2.png"
+      },
+      {
+        "name": "McDonald's Collection 2011",
+        "set_code": "MCD1",
+        "sigla": "MCD1",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/8/8a/SetSymbolMcDonalds_Collection.png/40px-SetSymbolMcDonalds_Collection.png",
+        "img_path": "imagens/pokemon/Especiais/MCD1.png"
+      },
+      {
+        "name": "Rumble",
+        "set_code": "RU",
+        "sigla": "RU",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/63/SetSymbolPok%C3%A9mon_Rumble.png/40px-SetSymbolPok%C3%A9mon_Rumble.png",
+        "img_path": "imagens/pokemon/Especiais/RU.png"
+      },
+      {
+        "name": "POP Series 9",
+        "set_code": "P9",
+        "sigla": "P9",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/99/SetSymbolPOP_Series_9.png/40px-SetSymbolPOP_Series_9.png",
+        "img_path": "imagens/pokemon/Especiais/P9.png"
+      },
+      {
+        "name": "POP Series 8",
+        "set_code": "P8",
+        "sigla": "P8",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/SetSymbolPOP_Series_8.png/40px-SetSymbolPOP_Series_8.png",
+        "img_path": "imagens/pokemon/Especiais/P8.png"
+      },
+      {
+        "name": "POP Series 7",
+        "set_code": "P7",
+        "sigla": "P7",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/SetSymbolPOP_Series_7.png/40px-SetSymbolPOP_Series_7.png",
+        "img_path": "imagens/pokemon/Especiais/P7.png"
+      },
+      {
+        "name": "POP Series 6",
+        "set_code": "P6",
+        "sigla": "P6",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/41/SetSymbolPOP_Series_6.png/40px-SetSymbolPOP_Series_6.png",
+        "img_path": "imagens/pokemon/Especiais/P6.png"
+      },
+      {
+        "name": "POP Series 5",
+        "set_code": "P5",
+        "sigla": "P5",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9f/SetSymbolPOP_Series_5.png/40px-SetSymbolPOP_Series_5.png",
+        "img_path": "imagens/pokemon/Especiais/P5.png"
+      },
+      {
+        "name": "POP Series 4",
+        "set_code": "P4",
+        "sigla": "P4",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3c/SetSymbolPOP_Series_4.png/40px-SetSymbolPOP_Series_4.png",
+        "img_path": "imagens/pokemon/Especiais/P4.png"
+      },
+      {
+        "name": "POP Series 3",
+        "set_code": "P3",
+        "sigla": "P3",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/SetSymbolPOP_Series_3.png/40px-SetSymbolPOP_Series_3.png",
+        "img_path": "imagens/pokemon/Especiais/P3.png"
+      },
+      {
+        "name": "POP Series 2",
+        "set_code": "P2",
+        "sigla": "P2",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/49/SetSymbolPOP_Series_2.png/40px-SetSymbolPOP_Series_2.png",
+        "img_path": "imagens/pokemon/Especiais/P2.png"
+      },
+      {
+        "name": "POP Series 1",
+        "set_code": "P1",
+        "sigla": "P1",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/fc/SetSymbolPOP_Series_1.png/40px-SetSymbolPOP_Series_1.png",
+        "img_path": "imagens/pokemon/Especiais/P1.png"
       },
       {
         "name": "Best of Game",
@@ -1757,18 +1763,11 @@
         "img_path": "imagens/pokemon/Especiais/BG.png"
       },
       {
-        "name": "Trick or Trade BOOster 2022",
-        "set_code": "TOT22",
-        "sigla": "TOT22",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/18/Trick_or_Trade.png/150px-Trick_or_Trade.png",
-        "img_path": "imagens/pokemon/Especiais/TOT22.png"
-      },
-      {
-        "name": "Trick or Trade BOOster 2023",
-        "set_code": "TOT23",
-        "sigla": "TOT23",
-        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/00/Trick_or_Trade_2023.png/150px-Trick_or_Trade_2023.png",
-        "img_path": "imagens/pokemon/Especiais/TOT23.png"
+        "name": "Promos",
+        "set_code": "PR",
+        "sigla": "PR",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
+        "img_path": "imagens/pokemon/Especiais/PR.png"
       },
       {
         "name": "Trick or Trade BOOster 2024",
