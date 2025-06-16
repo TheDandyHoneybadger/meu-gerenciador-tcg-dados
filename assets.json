@@ -220,208 +220,208 @@
       },
       
     ],
-    "Old Frame": [
+    "Old_Frame": [
 	{
         "name": "Flagelo",
         "set_code": "SC",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SC_C.gif",
-        "img_path": "imagens/mtg/Old Frame/SC.png"
+        "img_path": "imagens/mtg/Old_Frame/SC.png"
       },
       {
         "name": "Legiões",
         "set_code": "LE",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LE_C.gif",
-        "img_path": "imagens/mtg/Old Frame/LE.png"
+        "img_path": "imagens/mtg/Old_Frame/LE.png"
       },
       {
         "name": "Investida",
         "set_code": "ON",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ON_C.gif",
-        "img_path": "imagens/mtg/Old Frame/ON.png"
+        "img_path": "imagens/mtg/Old_Frame/ON.png"
       },
       {
         "name": "Julgamento",
         "set_code": "JU",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/JU_C.gif",
-        "img_path": "imagens/mtg/Old Frame/JU.png"
+        "img_path": "imagens/mtg/Old_Frame/JU.png"
       },
       {
         "name": "Tormento",
         "set_code": "TR",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TR_C.gif",
-        "img_path": "imagens/mtg/Old Frame/TR.png"
+        "img_path": "imagens/mtg/Old_Frame/TR.png"
       },
       {
         "name": "Odisséia",
         "set_code": "OD",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/OD_C.gif",
-        "img_path": "imagens/mtg/Old Frame/OD.png"
+        "img_path": "imagens/mtg/Old_Frame/OD.png"
       },
       {
         "name": "Apocalipse",
         "set_code": "AP",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AP_C.gif",
-        "img_path": "imagens/mtg/Old Frame/AP.png"
+        "img_path": "imagens/mtg/Old_Frame/AP.png"
       },
       {
         "name": "Conjunção",
         "set_code": "PS",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PS_C.gif",
-        "img_path": "imagens/mtg/Old Frame/PS.png"
+        "img_path": "imagens/mtg/Old_Frame/PS.png"
       },
       {
         "name": "Invasão",
         "set_code": "IN",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/IN_C.gif",
-        "img_path": "imagens/mtg/Old Frame/IN.png"
+        "img_path": "imagens/mtg/Old_Frame/IN.png"
       },
       {
         "name": "Profecia",
         "set_code": "PR",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PR_C.gif",
-        "img_path": "imagens/mtg/Old Frame/PR.png"
+        "img_path": "imagens/mtg/Old_Frame/PR.png"
       },
       {
         "name": "Nêmesis",
         "set_code": "NE",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/NE_C.gif",
-        "img_path": "imagens/mtg/Old Frame/NE.png"
+        "img_path": "imagens/mtg/Old_Frame/NE.png"
       },
       {
         "name": "Máscaras de Mercádia",
         "set_code": "MM",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MM_C.gif",
-        "img_path": "imagens/mtg/Old Frame/MM.png"
+        "img_path": "imagens/mtg/Old_Frame/MM.png"
       },
       {
         "name": "Destino de Urza",
         "set_code": "UD",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UD_C.gif",
-        "img_path": "imagens/mtg/Old Frame/UD.png"
+        "img_path": "imagens/mtg/Old_Frame/UD.png"
       },
       {
         "name": "Portal Three Kingdoms",
         "set_code": "P3K",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/P3K_C.gif",
-        "img_path": "imagens/mtg/Old Frame/P3K.png"
+        "img_path": "imagens/mtg/Old_Frame/P3K.png"
       },
       {
         "name": "Legado de Urza",
         "set_code": "UL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UL_C.gif",
-        "img_path": "imagens/mtg/Old Frame/UL.png"
+        "img_path": "imagens/mtg/Old_Frame/UL.png"
       },
       {
         "name": "Saga de Urza",
         "set_code": "US",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/US_C.gif",
-        "img_path": "imagens/mtg/Old Frame/US.png"
+        "img_path": "imagens/mtg/Old_Frame/US.png"
       },
       {
         "name": "Unglued",
         "set_code": "UG",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UG_C.gif",
-        "img_path": "imagens/mtg/Old Frame/UG.png"
+        "img_path": "imagens/mtg/Old_Frame/UG.png"
       },
       {
         "name": "Êxodo",
         "set_code": "EX",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EX_C.gif",
-        "img_path": "imagens/mtg/Old Frame/EX.png"
+        "img_path": "imagens/mtg/Old_Frame/EX.png"
       },
       {
         "name": "Portal Second Age",
         "set_code": "PO2",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PO2_C.gif",
-        "img_path": "imagens/mtg/Old Frame/PO2.png"
+        "img_path": "imagens/mtg/Old_Frame/PO2.png"
       },
       {
         "name": "Fortaleza",
         "set_code": "SH",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SH_C.gif",
-        "img_path": "imagens/mtg/Old Frame/SH.png"
+        "img_path": "imagens/mtg/Old_Frame/SH.png"
       },
       {
         "name": "Tempestade",
         "set_code": "TP",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TP_C.gif",
-        "img_path": "imagens/mtg/Old Frame/TP.png"
+        "img_path": "imagens/mtg/Old_Frame/TP.png"
       },
       {
         "name": "Alisios",
         "set_code": "WL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/WL_C.gif",
-        "img_path": "imagens/mtg/Old Frame/WL.png"
+        "img_path": "imagens/mtg/Old_Frame/WL.png"
       },
       {
         "name": "Portal",
         "set_code": "PO",
         "sigla": "",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PO_C.gif",
-        "img_path": "imagens/mtg/Old Frame/PO.png"
+        "img_path": "imagens/mtg/Old_Frame/PO.png"
       },
       {
         "name": "Visões",
         "set_code": "VI",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/VI_C.gif",
-        "img_path": "imagens/mtg/Old Frame/VI.png"
+        "img_path": "imagens/mtg/Old_Frame/VI.png"
       },
       {
         "name": "Miragem",
         "set_code": "MR",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MR_C.gif",
-        "img_path": "imagens/mtg/Old Frame/MR.png"
+        "img_path": "imagens/mtg/Old_Frame/MR.png"
       },
       {
         "name": "Alianças",
         "set_code": "AI",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AI_C.gif",
-        "img_path": "imagens/mtg/Old Frame/AI.png"
+        "img_path": "imagens/mtg/Old_Frame/AI.png"
       },
       {
         "name": "Era Glacial",
         "set_code": "IA",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/IA_C.gif",
-        "img_path": "imagens/mtg/Old Frame/IA.png"
+        "img_path": "imagens/mtg/Old_Frame/IA.png"
       },
       {
         "name": "Terras Natais",
         "set_code": "HL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/HL_C.gif",
-        "img_path": "imagens/mtg/Old Frame/HL.png"
+        "img_path": "imagens/mtg/Old_Frame/HL.png"
       },
       {
         "name": "Fallen Empires",
         "set_code": "FE",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FE_C.gif",
-        "img_path": "imagens/mtg/Old Frame/FE.png"
+        "img_path": "imagens/mtg/Old_Frame/FE.png"
       },
       {
         "name": "The Dark",
         "set_code": "DK",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DK_C.gif",
-        "img_path": "imagens/mtg/Old Frame/DK.png"
+        "img_path": "imagens/mtg/Old_Frame/DK.png"
       },
       {
         "name": "Lendas",
         "set_code": "LG",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LG_C.gif",
-        "img_path": "imagens/mtg/Old Frame/LG.png"
+        "img_path": "imagens/mtg/Old_Frame/LG.png"
       },
       {
         "name": "Antiquities",
         "set_code": "AQ",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AQ_C.gif",
-        "img_path": "imagens/mtg/Old Frame/AQ.png"
+        "img_path": "imagens/mtg/Old_Frame/AQ.png"
       },
       {
         "name": "Arabian Nights",
         "set_code": "AN",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AN_C.gif",
-        "img_path": "imagens/mtg/Old Frame/AN.png"
+        "img_path": "imagens/mtg/Old_Frame/AN.png"
       }
     ],
     "Core Set": [
