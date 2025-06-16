@@ -130,8 +130,14 @@
       {
         "name": "Lorwyn",
         "set_code": "LW",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LWHO_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LW_C.gif",
         "img_path": "imagens/mtg/Blocos/LW.png"
+      },
+      {
+        "name": "Frente Fria",
+        "set_code": "CS",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CS_C.gif",
+        "img_path": "imagens/mtg/Primórdios/CS.png"
       },
       {
         "name": "Visão do Futuro",
@@ -142,13 +148,13 @@
       {
         "name": "Caos Planar",
         "set_code": "PC",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PC2_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PC_C.gif",
         "img_path": "imagens/mtg/Blocos/PC.png"
       },
       {
         "name": "Espiral Temporal",
         "set_code": "TS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TSCD_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TS_C.gif",
         "img_path": "imagens/mtg/Blocos/TS.png"
       },
       {
@@ -160,7 +166,7 @@
       {
         "name": "Pacto das Guildas",
         "set_code": "GP",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/GPX_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/GP_C.gif",
         "img_path": "imagens/mtg/Blocos/GP.png"
       },
       {
@@ -182,6 +188,13 @@
         "img_path": "imagens/mtg/Blocos/BOK.png"
       },
       {
+        "name": "Unhunged",
+        "set_code": "UH",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UH_C.gif",
+        "img_path": "imagens/mtg/Blocos/UH.png"
+      },
+      {
         "name": "Campeões de Kamigawa",
         "set_code": "CHK",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CHK_C.gif",
@@ -196,19 +209,19 @@
       {
         "name": "Darksteel",
         "set_code": "DS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DSC_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DS_C.gif",
         "img_path": "imagens/mtg/Blocos/DS.png"
       },
       {
         "name": "Mirrodin",
         "set_code": "MI",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MIC_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MI_C.gif",
         "img_path": "imagens/mtg/Blocos/MI.png"
       },
       {
         "name": "Flagelo",
         "set_code": "SC",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SC9_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SC_C.gif",
         "img_path": "imagens/mtg/Blocos/SC.png"
       },
       {
@@ -220,7 +233,7 @@
       {
         "name": "Investida",
         "set_code": "ON",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ONC_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ON_C.gif",
         "img_path": "imagens/mtg/Blocos/ON.png"
       },
       {
@@ -232,7 +245,7 @@
       {
         "name": "Tormento",
         "set_code": "TR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TROE_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TR_C.gif",
         "img_path": "imagens/mtg/Blocos/TR.png"
       },
       {
@@ -244,19 +257,19 @@
       {
         "name": "Apocalipse",
         "set_code": "AP",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/APAC_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AP_C.gif",
         "img_path": "imagens/mtg/Blocos/AP.png"
       },
       {
         "name": "Conjunção",
         "set_code": "PS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PS11_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PS_C.gif",
         "img_path": "imagens/mtg/Blocos/PS.png"
       },
       {
         "name": "Invasão",
         "set_code": "IN",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/INR_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/IN_C.gif",
         "img_path": "imagens/mtg/Blocos/IN.png"
       }
     ],
@@ -264,19 +277,19 @@
       {
         "name": "Profecia",
         "set_code": "PR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PR22_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PR_C.gif",
         "img_path": "imagens/mtg/Primórdios/PR.png"
       },
       {
         "name": "Nêmesis",
         "set_code": "NE",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/NEC_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/NE_C.gif",
         "img_path": "imagens/mtg/Primórdios/NE.png"
       },
       {
         "name": "Máscaras de Mercádia",
         "set_code": "MM",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MM2_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MM_C.gif",
         "img_path": "imagens/mtg/Primórdios/MM.png"
       },
       {
@@ -284,6 +297,13 @@
         "set_code": "UD",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UD_C.gif",
         "img_path": "imagens/mtg/Primórdios/UD.png"
+      },
+      {
+        "name": "Portal Three Kingdoms",
+        "set_code": "P3K",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/P3K_C.gif",
+        "img_path": "imagens/mtg/Primórdios/P3K.png"
       },
       {
         "name": "Legado de Urza",
@@ -294,25 +314,39 @@
       {
         "name": "Saga de Urza",
         "set_code": "US",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UST_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/US_C.gif",
         "img_path": "imagens/mtg/Primórdios/US.png"
+      },
+      {
+        "name": "Unglued",
+        "set_code": "UG",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UG_C.gif",
+        "img_path": "imagens/mtg/Primórdios/UG.png"
       },
       {
         "name": "Êxodo",
         "set_code": "EX",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EXBRO_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EX_C.gif",
         "img_path": "imagens/mtg/Primórdios/EX.png"
+      },
+      {
+        "name": "Portal Second Age",
+        "set_code": "PO2",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PO2_C.gif",
+        "img_path": "imagens/mtg/Primórdios/PO2.png"
       },
       {
         "name": "Fortaleza",
         "set_code": "SH",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SHM_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SH_C.gif",
         "img_path": "imagens/mtg/Primórdios/SH.png"
       },
       {
         "name": "Tempestade",
         "set_code": "TP",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TPIP_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TP_C.gif",
         "img_path": "imagens/mtg/Primórdios/TP.png"
       },
       {
@@ -320,6 +354,13 @@
         "set_code": "WL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/WL_C.gif",
         "img_path": "imagens/mtg/Primórdios/WL.png"
+      },
+      {
+        "name": "Portal",
+        "set_code": "PO",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PO_C.gif",
+        "img_path": "imagens/mtg/Primórdios/PO.png"
       },
       {
         "name": "Visões",
@@ -332,12 +373,6 @@
         "set_code": "MR",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MR_C.gif",
         "img_path": "imagens/mtg/Primórdios/MR.png"
-      },
-      {
-        "name": "Frente Fria",
-        "set_code": "CS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CSTD_C.gif",
-        "img_path": "imagens/mtg/Primórdios/CS.png"
       },
       {
         "name": "Alianças",
@@ -354,25 +389,25 @@
       {
         "name": "Terras Natais",
         "set_code": "HL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/HLDFT_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/HL_C.gif",
         "img_path": "imagens/mtg/Primórdios/HL.png"
       },
       {
         "name": "Fallen Empires",
         "set_code": "FE",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FE2X2_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FE_C.gif",
         "img_path": "imagens/mtg/Primórdios/FE.png"
       },
       {
         "name": "The Dark",
         "set_code": "DK",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DKA_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DK_C.gif",
         "img_path": "imagens/mtg/Primórdios/DK.png"
       },
       {
         "name": "Lendas",
         "set_code": "LG",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LGDFT_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LG_C.gif",
         "img_path": "imagens/mtg/Primórdios/LG.png"
       },
       {
@@ -384,7 +419,7 @@
       {
         "name": "Arabian Nights",
         "set_code": "AN",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ANA_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AN_C.gif",
         "img_path": "imagens/mtg/Primórdios/AN.png"
       }
     ],
@@ -458,19 +493,33 @@
       {
         "name": "Quarta Edição",
         "set_code": "4E",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/4EB_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/4E_C.gif",
         "img_path": "imagens/mtg/Core Set/4E.png"
+      },
+      {
+        "name": "Quarta Edição (Borda Preta)",
+        "set_code": "4EB",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/4EB_C.gif",
+        "img_path": "imagens/mtg/Core Set/4EB.png"
       },
       {
         "name": "Revised Edition",
         "set_code": "RV",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/RVB_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/RV_C.gif",
         "img_path": "imagens/mtg/Core Set/RV.png"
+      },
+      {
+        "name": "Revised Edition (Borda Preta)",
+        "set_code": "RVB",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/RVB_C.gif",
+        "img_path": "imagens/mtg/Core Set/RVB.png"
       },
       {
         "name": "Unlimited Edition",
         "set_code": "UN",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UND_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UN_C.gif",
         "img_path": "imagens/mtg/Core Set/UN.png"
       },
       {
@@ -482,46 +531,152 @@
       {
         "name": "Limited Edition Alpha",
         "set_code": "AL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ALA_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AL_C.gif",
         "img_path": "imagens/mtg/Core Set/AL.png"
       }
     ],
-    "Outros": [
+    "Decks": [
+      {
+        "name": "Duel Decks: Divine vs. Demonic",
+        "set_code": "DVD",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DVD_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DVD.png"
+      },
+      {
+        "name": "Duel Decks: Garruk vs. Liliana",
+        "set_code": "GLV",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/GVL_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/GLV.png"
+      },
+      {
+        "name": "Duel Decks: Elspeth vs. Tezzeret",
+        "set_code": "DDF",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDF_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DDF.png"
+      },
       {
         "name": "Duel Decks: Jace vs. Vraska",
         "set_code": "DDM",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDM_C.gif",
-        "img_path": "imagens/mtg/Outros/DDM.png"
+        "img_path": "imagens/mtg/Duel_Decks/DDM.png"
       },
       {
         "name": "Duel Decks: Heroes vs. Monsters",
         "set_code": "DDL",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDL_C.gif",
-        "img_path": "imagens/mtg/Outros/DDL.png"
+        "img_path": "imagens/mtg/Duel_Decks/DDL.png"
       },
       {
         "name": "Duel Decks: Sorin vs. Tibalt",
         "set_code": "DDK",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDK_C.gif",
-        "img_path": "imagens/mtg/Outros/DDK.png"
+        "img_path": "imagens/mtg/Duel_Decks/DDK.png"
+      },
+      {
+        "name": "Duel Decks: Phyrexia vs. The Coalition",
+        "set_code": "PVC",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PVC_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PVC.png"
       },
       {
         "name": "Duel Decks: Izzet vs. Golgari",
         "set_code": "DDJ",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDJ_C.gif",
-        "img_path": "imagens/mtg/Outros/DDJ.png"
+        "img_path": "imagens/mtg/Duel_Decks/DDJ.png"
       },
       {
         "name": "Duel Decks: Venser vs. Koth",
         "set_code": "DDI",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDI_C.gif",
-        "img_path": "imagens/mtg/Outros/DDI.png"
+        "img_path": "imagens/mtg/Duel_Decks/DDI.png"
+      },
+      {
+        "name": "Duel Decks: Knights vs. Dragons",
+        "set_code": "DDG",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDG_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DDG.png"
+      },
+      {
+        "name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",
+        "set_code": "TD2",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TD2_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/TD2.png"
+      },
+      {
+        "name": "Duel Decks: Ajani vs. Nicol Bolas",
+        "set_code": "DDH",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DDH_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/DDH.png"
+      },
+      {
+        "name": "Modern Event Deck",
+        "set_code": "MD1",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MD1_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/MD1.png"
+      },
+      {
+        "name": "Premium Deck Series: Slivers",
+        "set_code": "PDS",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PDS_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PDS.png"
+      },
+      {
+        "name": "Premium Deck Series: Fire and Lightning",
+        "set_code": "PD2",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PD2_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PD2.png"
+      },
+      {
+        "name": "Premium Deck Series: Graveborn",
+        "set_code": "PD3",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PD3_C.gif",
+        "img_path": "imagens/mtg/Duel_Decks/PD3.png"
+      }
+    ],
+    "Outros": [
+      {
+        "name": "Archenemy",
+        "set_code": "ARC",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ARC_C.gif",
+        "img_path": "imagens/mtg/Outros/ARC.png"
+      },
+      {
+        "name": "Conspiracy",
+        "set_code": "CNS",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CNS_C.gif",
+        "img_path": "imagens/mtg/Outros/CNS.png"
+      },
+      {
+        "name": "From the Vault: Dragons",
+        "set_code": "FVD",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVD_C.gif",
+        "img_path": "imagens/mtg/Outros/FVD.png"
       },
       {
         "name": "From the Vault: Twenty",
         "set_code": "V13",
         "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/V13_C.gif",
         "img_path": "imagens/mtg/Outros/V13.png"
+      },
+      {
+        "name": "From the Vault: Relics",
+        "set_code": "FVR",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/FVR_C.gif",
+        "img_path": "imagens/mtg/Outros/FVR.png"
       },
       {
         "name": "From the Vault: Realms",
@@ -536,16 +691,17 @@
         "img_path": "imagens/mtg/Outros/FVL.png"
       },
       {
-        "name": "Modern Event Deck",
-        "set_code": "MD1",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MD1_C.gif",
-        "img_path": "imagens/mtg/Outros/MD1.png"
-      },
-      {
         "name": "Commander's Arsenal",
         "set_code": "CMA",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CMA2_C.gif",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CMA_C.gif",
         "img_path": "imagens/mtg/Outros/CMA.png"
+      },
+      {
+        "name": "Modern Masters",
+        "set_code": "MMA",
+        "sigla": "",
+        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MMA_C.gif",
+        "img_path": "imagens/mtg/Outros/MMA.png"
       },
       {
         "name": "Planechase 2012 Edition",
@@ -768,7 +924,7 @@
         "name": "Sol e Lua",
         "set_code": "SUM",
         "sigla": "SUM",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SUMMER_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/c/cb/SetSymbolSun_and_Moon.png/40px-SetSymbolSun_and_Moon.png",
         "img_path": "imagens/pokemon/SM/SUM.png"
       },
       {
@@ -924,7 +1080,7 @@
         "name": "Conflito Primitivo",
         "set_code": "PRC",
         "sigla": "PRC",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PRCMR_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/SetSymbolPrimal_Clash.png/40px-SetSymbolPrimal_Clash.png",
         "img_path": "imagens/pokemon/XY/PRC.png"
       },
       {
@@ -1080,7 +1236,7 @@
         "name": "Tesouros Lendários",
         "set_code": "LTR",
         "sigla": "LTR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LTR_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/3/3c/SetSymbolLegendary_Treasures.png/40px-SetSymbolLegendary_Treasures.png",
         "img_path": "imagens/pokemon/BW/LTR.png"
       }
     ],
@@ -1103,28 +1259,28 @@
         "name": "Revelado",
         "set_code": "UL",
         "sigla": "UL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UL_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/42/SetSymbolUnleashed.png/40px-SetSymbolUnleashed.png",
         "img_path": "imagens/pokemon/HS/UL.png"
       },
       {
         "name": "Destemido",
         "set_code": "UD",
         "sigla": "UD",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/UD_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/73/SetSymbolUndaunted.png/40px-SetSymbolUndaunted.png",
         "img_path": "imagens/pokemon/HS/UD.png"
       },
       {
         "name": "Triunfante",
         "set_code": "TM",
         "sigla": "TM",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TM10_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/00/SetSymbolTriumphant.png/40px-SetSymbolTriumphant.png",
         "img_path": "imagens/pokemon/HS/TM.png"
       },
       {
         "name": "Chamado das Lendas",
         "set_code": "CL",
         "sigla": "CL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/CLASH_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolCall_of_Legends.png/40px-SetSymbolCall_of_Legends.png",
         "img_path": "imagens/pokemon/HS/CL.png"
       }
     ],
@@ -1133,14 +1289,14 @@
         "name": "Platinum",
         "set_code": "PL",
         "sigla": "PL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PL21_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7c/SetSymbolPlatinum.png/40px-SetSymbolPlatinum.png",
         "img_path": "imagens/pokemon/PL/PL.png"
       },
       {
         "name": "Rising Rivals",
         "set_code": "RR",
         "sigla": "RR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/RRDFT_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/64/SetSymbolRising_Rivals.png/40px-SetSymbolRising_Rivals.png",
         "img_path": "imagens/pokemon/PL/RR.png"
       },
       {
@@ -1154,7 +1310,7 @@
         "name": "Arceus",
         "set_code": "AR",
         "sigla": "AR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/ARB_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/96/SetSymbolArceus.png/40px-SetSymbolArceus.png",
         "img_path": "imagens/pokemon/PL/AR.png"
       }
     ],
@@ -1170,14 +1326,14 @@
         "name": "Diamante & Pérola",
         "set_code": "DP",
         "sigla": "DP",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DPA_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/SetSymbolDiamond_and_Pearl.png/40px-SetSymbolDiamond_and_Pearl.png",
         "img_path": "imagens/pokemon/DP/DP.png"
       },
       {
         "name": "Maravilhas Secretas",
         "set_code": "SW",
         "sigla": "SW",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SWBLB_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/SetSymbolSecret_Wonders.png/40px-SetSymbolSecret_Wonders.png",
         "img_path": "imagens/pokemon/DP/SW.png"
       },
       {
@@ -1191,21 +1347,21 @@
         "name": "Majestic Dawn",
         "set_code": "MD",
         "sigla": "MD",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MD1_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/SetSymbolMajestic_Dawn.png/40px-SetSymbolMajestic_Dawn.png",
         "img_path": "imagens/pokemon/DP/MD.png"
       },
       {
         "name": "Legends Awakened",
         "set_code": "LA",
         "sigla": "LA",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LA_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/28/SetSymbolLegends_Awakened.png/40px-SetSymbolLegends_Awakened.png",
         "img_path": "imagens/pokemon/DP/LA.png"
       },
       {
         "name": "Stormfront",
         "set_code": "SF",
         "sigla": "SF",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SF40K_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/72/SetSymbolStormfront.png/40px-SetSymbolStormfront.png",
         "img_path": "imagens/pokemon/DP/SF.png"
       }
     ],
@@ -1214,35 +1370,35 @@
         "name": "Rubi & Safira",
         "set_code": "RS",
         "sigla": "RS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/RSLTR_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/SetSymbolRuby_and_Sapphire.png/40px-SetSymbolRuby_and_Sapphire.png",
         "img_path": "imagens/pokemon/EX/RS.png"
       },
       {
         "name": "Sandstorm",
         "set_code": "SS",
         "sigla": "SS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SS1_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/6a/SetSymbolSandstorm.png/40px-SetSymbolSandstorm.png",
         "img_path": "imagens/pokemon/EX/SS.png"
       },
       {
         "name": "Dragon",
         "set_code": "DR",
         "sigla": "DR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DRC_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/08/SetSymbolDragon.png/40px-SetSymbolDragon.png",
         "img_path": "imagens/pokemon/EX/DR.png"
       },
       {
         "name": "Team Magma vs Team Aqua",
         "set_code": "MA",
         "sigla": "MA",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/MABLB_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/b/b9/SetSymbolTeam_Magma_vs_Team_Aqua.png/40px-SetSymbolTeam_Magma_vs_Team_Aqua.png",
         "img_path": "imagens/pokemon/EX/MA.png"
       },
       {
         "name": "Hidden Legends",
         "set_code": "HL",
         "sigla": "HL",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/HLDFT_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/6/66/SetSymbolHidden_Legends.png/40px-SetSymbolHidden_Legends.png",
         "img_path": "imagens/pokemon/EX/HL.png"
       },
       {
@@ -1270,7 +1426,7 @@
         "name": "Emerald",
         "set_code": "EM",
         "sigla": "EM",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EMA_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/SetSymbolEmerald.png/40px-SetSymbolEmerald.png",
         "img_path": "imagens/pokemon/EX/EM.png"
       },
       {
@@ -1284,14 +1440,14 @@
         "name": "Delta Species",
         "set_code": "DS",
         "sigla": "DS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DSC_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/14/SetSymbolDelta_Species.png/40px-SetSymbolDelta_Species.png",
         "img_path": "imagens/pokemon/EX/DS.png"
       },
       {
         "name": "Legend Maker",
         "set_code": "LM",
         "sigla": "LM",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/LMOC_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2c/SetSymbolLegend_Maker.png/40px-SetSymbolLegend_Maker.png",
         "img_path": "imagens/pokemon/EX/LM.png"
       },
       {
@@ -1312,7 +1468,7 @@
         "name": "Dragon Frontiers",
         "set_code": "DF",
         "sigla": "DF",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/DFSPG_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/SetSymbolDragon_Frontiers.png/40px-SetSymbolDragon_Frontiers.png",
         "img_path": "imagens/pokemon/EX/DF.png"
       },
       {
@@ -1328,14 +1484,14 @@
         "name": "Base Set",
         "set_code": "BS",
         "sigla": "BS",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/BSACR_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/1st_edition_English.png/120px-1st_edition_English.png",
         "img_path": "imagens/pokemon/WotC/BS.png"
       },
       {
         "name": "Selva",
         "set_code": "JU",
         "sigla": "JU",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/JU_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/2f/SetSymbolJungle.png/40px-SetSymbolJungle.png",
         "img_path": "imagens/pokemon/WotC/JU.png"
       },
       {
@@ -1356,7 +1512,7 @@
         "name": "Team Rocket",
         "set_code": "TR",
         "sigla": "TR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/TROE_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/SetSymbolTeam_Rocket.png/40px-SetSymbolTeam_Rocket.png",
         "img_path": "imagens/pokemon/WotC/TR.png"
       },
       {
@@ -1384,7 +1540,7 @@
         "name": "Southern Islands",
         "set_code": "SI",
         "sigla": "SI",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/SINR_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/1/1e/SetSymbolSouthern_IslandsENG.png/40px-SetSymbolSouthern_IslandsENG.png",
         "img_path": "imagens/pokemon/WotC/SI.png"
       },
       {
@@ -1412,14 +1568,14 @@
         "name": "Expedition",
         "set_code": "EX",
         "sigla": "EX",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/EXBRO_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/SetSymbolExpedition.png/40px-SetSymbolExpedition.png",
         "img_path": "imagens/pokemon/WotC/EX.png"
       },
       {
         "name": "Aquapolis",
         "set_code": "AQ",
         "sigla": "AQ",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/AQ_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/2/27/SetSymbolAquapolis.png/40px-SetSymbolAquapolis.png",
         "img_path": "imagens/pokemon/WotC/AQ.png"
       },
       {
@@ -1435,7 +1591,7 @@
         "name": "Promos",
         "set_code": "PR",
         "sigla": "PR",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/PR22_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/5/58/SetSymbolPromo.png/40px-SetSymbolPromo.png",
         "img_path": "imagens/pokemon/Especiais/PR.png"
       },
       {
@@ -1456,14 +1612,14 @@
         "name": "POP Series 2",
         "set_code": "P2",
         "sigla": "P2",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/P22_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/49/SetSymbolPOP_Series_2.png/40px-SetSymbolPOP_Series_2.png",
         "img_path": "imagens/pokemon/Especiais/P2.png"
       },
       {
         "name": "POP Series 3",
         "set_code": "P3",
         "sigla": "P3",
-        "img_url": "https://repositorio.sbrauble.com/arquivos/up/ed_mtg/P30T_C.gif",
+        "img_url": "https://archives.bulbagarden.net/media/upload/thumb/4/4c/SetSymbolPOP_Series_3.png/40px-SetSymbolPOP_Series_3.png",
         "img_path": "imagens/pokemon/Especiais/P3.png"
       },
       {
