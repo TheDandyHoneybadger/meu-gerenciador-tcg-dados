@@ -105,5 +105,23 @@
     "password_salt": "96a75b87da9abbcaaf32de3277862c87",
     "password_hash": "56fa1cd93b2ab19895cd66cf3068ba6a23438f616a03107d9b79d8ffb8c37c7f",
     "username_hash": "baf96a2136479f4a5c60f031ef6f39493a6738b8b025b1f0bfe06e6c330fe953"
+  },
+  {
+    "display_name": "AndersonFenix",
+    "permissions": {
+      "ygo": true,
+      "mtg": true,
+      "pkm": true,
+      "op": true,
+      "fab": true,
+      "dgm": true,
+      "can_import_db": false,
+      "can_manage_users": false,
+      "can_update_online_db": true,
+      "can_download_assets": true
+    },
+    "password_salt": "6d00aa866bc313fd91c21afe21a3a059",
+    "password_hash": "42053dcc36567bb635a622ede63e93aa0bb28fa74d7e23bee637b49155ce1f92",
+    "username_hash": "8088df922029badc81ce45347bc9af3bc2e11833f4c6789109a1bbbad2b75ccd"
   }
 ]
