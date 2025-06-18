@@ -87,5 +87,23 @@
     "password_salt": "efb01fd8a2ffea2d728e87bb546309e0",
     "password_hash": "6a09b968337243a3f54b73d85b26754a0f93199a8349306d1e0921e67604a535",
     "username_hash": "e9b71991b7f947a3467fff8aeb5f6944a34cb9c5f9ab9e605411dd3655190c6c"
+  },
+  {
+    "display_name": "LojaDaisuki",
+    "permissions": {
+      "ygo": true,
+      "mtg": false,
+      "pkm": false,
+      "op": false,
+      "fab": false,
+      "dgm": false,
+      "can_import_db": true,
+      "can_manage_users": false,
+      "can_update_online_db": true,
+      "can_download_assets": false
+    },
+    "password_salt": "96a75b87da9abbcaaf32de3277862c87",
+    "password_hash": "56fa1cd93b2ab19895cd66cf3068ba6a23438f616a03107d9b79d8ffb8c37c7f",
+    "username_hash": "baf96a2136479f4a5c60f031ef6f39493a6738b8b025b1f0bfe06e6c330fe953"
   }
 ]
